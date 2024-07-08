@@ -17,6 +17,7 @@ The rules of the game are as follows:
 _Given the number of friends, **n**, and an integer **k**, return the winner of the game._
 
 # Example 1
+<img src="https://assets.leetcode.com/uploads/2021/03/25/ic234-q2-ex11.png">
 ```
 Input: n = 5, k = 2
 Output: 3
