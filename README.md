@@ -1,7 +1,8 @@
 # Leetcode
 
 * ## Easy
-[Intersection of Two Arrays II](https://github.com/iamabirakash/Leetcode/tree/main/Intersection_Two_Arrays)
+1. [Intersection of Two Arrays II](https://github.com/iamabirakash/Leetcode/tree/main/Intersection_Two_Arrays)
+2. [Pass the Pillow](https://github.com/iamabirakash/Leetcode/tree/main/Pass%20The%20Pillow)
 
 * ## Medium
 1. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/iamabirakash/Leetcode/tree/main/Minimum_Difference)
