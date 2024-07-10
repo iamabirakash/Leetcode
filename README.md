@@ -14,3 +14,4 @@
 5. [Average Waiting Time](https://github.com/iamabirakash/Leetcode/tree/main/Average%20Waiting%20Time)
 
 * ## Hard
+1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
