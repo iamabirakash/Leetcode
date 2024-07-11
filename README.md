@@ -12,6 +12,7 @@
 3. [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://github.com/iamabirakash/Leetcode/tree/main/Min_Max_No_Nodes)
 4. [Circular Game](https://github.com/iamabirakash/Leetcode/tree/main/Circular_Game)
 5. [Average Waiting Time](https://github.com/iamabirakash/Leetcode/tree/main/Average%20Waiting%20Time)
+6. [Reverse Substrings Between Each Pair of Parentheses](https://github.com/iamabirakash/Leetcode/tree/main/Reversed%20Substring%20Paranthesis)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
