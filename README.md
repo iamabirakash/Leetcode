@@ -13,6 +13,7 @@
 4. [Circular Game](https://github.com/iamabirakash/Leetcode/tree/main/Circular_Game)
 5. [Average Waiting Time](https://github.com/iamabirakash/Leetcode/tree/main/Average%20Waiting%20Time)
 6. [Reverse Substrings Between Each Pair of Parentheses](https://github.com/iamabirakash/Leetcode/tree/main/Reversed%20Substring%20Paranthesis)
+7. [Maximum Score From Removing Substrings](https://github.com/iamabirakash/Leetcode/tree/main/Maximum%20Score)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
