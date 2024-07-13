@@ -17,7 +17,9 @@ Note: The positions may be unsorted.
 Example 1:
 ![](https://assets.leetcode.com/uploads/2023/05/15/image-20230516011718-12.png)
 Input: `positions = [5,4,3,2,1], healths = [2,17,9,15,10], directions = "RRRRR"`
+
 Output: `[2,17,9,15,10]`
+
 Explanation: `No collision occurs in this example, since all robots are moving in the same direction. So, the health of the robots in order from the first robot is returned, [2, 17, 9, 15, 10].`
 
 Example 2:
