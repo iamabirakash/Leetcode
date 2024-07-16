@@ -15,6 +15,7 @@
 6. [Reverse Substrings Between Each Pair of Parentheses](https://github.com/iamabirakash/Leetcode/tree/main/Reversed%20Substring%20Paranthesis)
 7. [Maximum Score From Removing Substrings](https://github.com/iamabirakash/Leetcode/tree/main/Maximum%20Score)
 8. [Create Binary Tree From Descriptions](https://github.com/iamabirakash/Leetcode/tree/main/Create%20Binary%20Tree)
+9. [Step-By-Step Directions From a Binary Tree Node to Another](https://github.com/iamabirakash/Leetcode/tree/main/Binary%20Tree%20Node%20to%20Another)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
