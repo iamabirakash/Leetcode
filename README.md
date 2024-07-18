@@ -18,8 +18,8 @@
 7. [Maximum Score From Removing Substrings](https://github.com/iamabirakash/Leetcode/tree/main/Maximum%20Score)
 8. [Create Binary Tree From Descriptions](https://github.com/iamabirakash/Leetcode/tree/main/Create%20Binary%20Tree)
 9. [Step-By-Step Directions From a Binary Tree Node to Another](https://github.com/iamabirakash/Leetcode/tree/main/Binary%20Tree%20Node%20to%20Another)
-10. [Delete Node in a Linked List
-](https://github.com/iamabirakash/Leetcode/tree/main/Delete%20Node%20in%20a%20Linked%20List)
+10. [Delete Node in a Linked List](https://github.com/iamabirakash/Leetcode/tree/main/Delete%20Node%20in%20a%20Linked%20List)
+11. [Delete the Middle Node of a Linked List](https://github.com/iamabirakash/Leetcode/tree/main/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
