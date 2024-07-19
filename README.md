@@ -7,6 +7,7 @@
 4. [Crawler Log Folder](https://github.com/iamabirakash/Leetcode/tree/main/Crawler%20Log%20Folder)
 5. [Intersection of Two Linked Lists](https://github.com/iamabirakash/Leetcode/tree/main/Intersection%20of%20Two%20Linked%20Lists)
 6. [Middle of the Linked List](https://github.com/iamabirakash/Leetcode/tree/main/Middle%20of%20the%20Linked%20List)
+7. [Lucky Numbers in a Matrix](https://github.com/iamabirakash/Leetcode/tree/main/Lucky%20Numbers%20in%20a%20Matrix)
 
 * ## Medium
 1. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/iamabirakash/Leetcode/tree/main/Minimum_Difference)
