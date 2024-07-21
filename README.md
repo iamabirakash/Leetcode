@@ -30,3 +30,4 @@
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
 2. [Robot Collisions](https://github.com/iamabirakash/Leetcode/blob/main/Robot%20Collisions/README.md)
 3. [Number Of Atoms](https://github.com/iamabirakash/Leetcode/tree/main/Number%20Of%20Atoms)
+4. [Build a Matrix With Conditions](https://github.com/iamabirakash/Leetcode/tree/main/Build%20a%20Matrix%20With%20Conditions)
