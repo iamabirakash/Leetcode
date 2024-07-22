@@ -11,6 +11,7 @@
 6. [Middle of the Linked List](https://github.com/iamabirakash/Leetcode/tree/main/Middle%20of%20the%20Linked%20List)
 7. [Lucky Numbers in a Matrix](https://github.com/iamabirakash/Leetcode/tree/main/Lucky%20Numbers%20in%20a%20Matrix)
 8. [Linked List Cycle](https://github.com/iamabirakash/Leetcode/tree/main/Linked%20List%20Cycle)
+9. [Sort the People](https://github.com/iamabirakash/Leetcode/tree/main/Sort%20the%20People)
 
 * ## Medium
 1. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/iamabirakash/Leetcode/tree/main/Minimum_Difference)
