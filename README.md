@@ -26,6 +26,7 @@
 10. [Delete Node in a Linked List](https://github.com/iamabirakash/Leetcode/tree/main/Delete%20Node%20in%20a%20Linked%20List)
 11. [Delete the Middle Node of a Linked List](https://github.com/iamabirakash/Leetcode/tree/main/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List)
 12. [Find Valid Matrix Given Row and Column Sums](https://github.com/iamabirakash/Leetcode/tree/main/Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums)
+13. [Sort an Array](https://github.com/iamabirakash/Leetcode/tree/main/Sort%20an%20Array)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
