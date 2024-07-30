@@ -28,6 +28,7 @@
 12. [Find Valid Matrix Given Row and Column Sums](https://github.com/iamabirakash/Leetcode/tree/main/Find%20Valid%20Matrix%20Given%20Row%20and%20Column%20Sums)
 13. [Sort an Array](https://github.com/iamabirakash/Leetcode/tree/main/Sort%20an%20Array)
 14. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://github.com/iamabirakash/Leetcode/tree/main/Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance)
+15. [Minimum Deletions to Make String Balanced](https://github.com/iamabirakash/Leetcode/tree/main/Minimum%20Deletions%20to%20Make%20String%20Balanced)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
