@@ -12,6 +12,7 @@
 7. [Lucky Numbers in a Matrix](https://github.com/iamabirakash/Leetcode/tree/main/Lucky%20Numbers%20in%20a%20Matrix)
 8. [Linked List Cycle](https://github.com/iamabirakash/Leetcode/tree/main/Linked%20List%20Cycle)
 9. [Sort the People](https://github.com/iamabirakash/Leetcode/tree/main/Sort%20the%20People)
+10. [Number of Senior Citizens](https://github.com/iamabirakash/Leetcode/tree/main/Number%20of%20Senior%20Citizens)
 
 * ## Medium
 1. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/iamabirakash/Leetcode/tree/main/Minimum_Difference)
