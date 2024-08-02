@@ -31,6 +31,7 @@
 14. [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://github.com/iamabirakash/Leetcode/tree/main/Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance)
 15. [Minimum Deletions to Make String Balanced](https://github.com/iamabirakash/Leetcode/tree/main/Minimum%20Deletions%20to%20Make%20String%20Balanced)
 16. [Filling Bookcase Shelves](https://github.com/iamabirakash/Leetcode/tree/main/Filling%20Bookcase%20Shelves)
+17. [Minimum Swaps to Group All 1's Together II](https://github.com/iamabirakash/Leetcode/tree/main/Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
