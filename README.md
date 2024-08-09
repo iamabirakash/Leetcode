@@ -33,6 +33,7 @@
 16. [Filling Bookcase Shelves](https://github.com/iamabirakash/Leetcode/tree/main/Filling%20Bookcase%20Shelves)
 17. [Minimum Swaps to Group All 1's Together II](https://github.com/iamabirakash/Leetcode/tree/main/Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II)
 18. [Spiral Matrix III](https://github.com/iamabirakash/Leetcode/tree/main/Spiral%20Matrix%20III)
+19. [Magic Squares In Grid](https://github.com/iamabirakash/Leetcode/tree/main/Magic%20Squares%20In%20Grid)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
