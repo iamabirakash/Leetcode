@@ -41,3 +41,5 @@
 3. [Number Of Atoms](https://github.com/iamabirakash/Leetcode/tree/main/Number%20Of%20Atoms)
 4. [Build a Matrix With Conditions](https://github.com/iamabirakash/Leetcode/tree/main/Build%20a%20Matrix%20With%20Conditions)
 5. [Integer to English Words](https://github.com/iamabirakash/Leetcode/tree/main/Integer%20to%20English%20Words)
+6. [Minimum Number of Days to Disconnect Island
+](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/?envType=daily-question&envId=2024-08-11)
