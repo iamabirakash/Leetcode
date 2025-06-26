@@ -36,6 +36,7 @@
 17. [Minimum Swaps to Group All 1's Together II](https://github.com/iamabirakash/Leetcode/tree/main/Minimum%20Swaps%20to%20Group%20All%201's%20Together%20II)
 18. [Spiral Matrix III](https://github.com/iamabirakash/Leetcode/tree/main/Spiral%20Matrix%20III)
 19. [Magic Squares In Grid](https://github.com/iamabirakash/Leetcode/tree/main/Magic%20Squares%20In%20Grid)
+20. [Sort List](https://github.com/iamabirakash/Leetcode/tree/main/Sort%20List)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
