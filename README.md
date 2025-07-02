@@ -15,6 +15,7 @@
 10. [Number of Senior Citizens](https://github.com/iamabirakash/Leetcode/tree/main/Number%20of%20Senior%20Citizens)
 11. [Kth Largest Element in a Stream](https://github.com/iamabirakash/Leetcode/tree/main/Kth%20Largest%20Element%20in%20a%20Stream)
 12. [Merge Two Sorted Lists](https://github.com/iamabirakash/Leetcode/tree/main/Merge%20Two%20Sorted%20Lists)
+13. [Search in a Binary Search Tree](https://github.com/iamabirakash/Leetcode/tree/main/Search%20in%20a%20Binary%20Search%20Tree)
 
 * ## Medium
 1. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/iamabirakash/Leetcode/tree/main/Minimum_Difference)
