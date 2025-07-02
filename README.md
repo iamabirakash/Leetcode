@@ -39,6 +39,7 @@
 20. [Sort List](https://github.com/iamabirakash/Leetcode/tree/main/Sort%20List)
 21. [Odd Even Linked List](https://github.com/iamabirakash/Leetcode/tree/main/Odd%20Even%20Linked%20List)
 22. [Valid Parentheses](https://github.com/iamabirakash/Leetcode/tree/main/Valid%20Parentheses)
+23. [Binary Tree Inorder Traversal](https://github.com/iamabirakash/Leetcode/tree/main/Binary%20Tree%20Inorder%20Traversal)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
