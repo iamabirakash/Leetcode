@@ -38,6 +38,7 @@
 19. [Magic Squares In Grid](https://github.com/iamabirakash/Leetcode/tree/main/Magic%20Squares%20In%20Grid)
 20. [Sort List](https://github.com/iamabirakash/Leetcode/tree/main/Sort%20List)
 21. [Odd Even Linked List](https://github.com/iamabirakash/Leetcode/tree/main/Odd%20Even%20Linked%20List)
+22. [Valid Parentheses](https://github.com/iamabirakash/Leetcode/tree/main/Valid%20Parentheses)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
