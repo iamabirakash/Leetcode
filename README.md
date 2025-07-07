@@ -16,7 +16,8 @@
 11. [Kth Largest Element in a Stream](https://github.com/iamabirakash/Leetcode/tree/main/Kth%20Largest%20Element%20in%20a%20Stream)
 12. [Merge Two Sorted Lists](https://github.com/iamabirakash/Leetcode/tree/main/Merge%20Two%20Sorted%20Lists)
 13. [Search in a Binary Search Tree](https://github.com/iamabirakash/Leetcode/tree/main/Search%20in%20a%20Binary%20Search%20Tree)
-14. [ Count Complete Tree Nodes](https://github.com/iamabirakash/Leetcode/tree/main/Count%20Complete%20Tree%20Nodes)
+14. [Count Complete Tree Nodes](https://github.com/iamabirakash/Leetcode/tree/main/Count%20Complete%20Tree%20Nodes)
+15. [Clear Digits](https://github.com/iamabirakash/Leetcode/tree/main/Clear%20Digits)
 
 * ## Medium
 1. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/iamabirakash/Leetcode/tree/main/Minimum_Difference)
