@@ -18,6 +18,7 @@
 13. [Search in a Binary Search Tree](https://github.com/iamabirakash/Leetcode/tree/main/Search%20in%20a%20Binary%20Search%20Tree)
 14. [Count Complete Tree Nodes](https://github.com/iamabirakash/Leetcode/tree/main/Count%20Complete%20Tree%20Nodes)
 15. [Clear Digits](https://github.com/iamabirakash/Leetcode/tree/main/Clear%20Digits)
+16. [Minimum String Length After Removing Substrings](https://github.com/iamabirakash/Leetcode/tree/main/Minimum%20String%20Length%20After%20Removing%20Substrings)
 
 * ## Medium
 1. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/iamabirakash/Leetcode/tree/main/Minimum_Difference)
