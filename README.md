@@ -47,6 +47,7 @@
 22. [Valid Parentheses](https://github.com/iamabirakash/Leetcode/tree/main/Valid%20Parentheses)
 23. [Binary Tree Inorder Traversal](https://github.com/iamabirakash/Leetcode/tree/main/Binary%20Tree%20Inorder%20Traversal)
 24. [Remove Nodes From Linked List](https://github.com/iamabirakash/Leetcode/tree/main/Remove%20Nodes%20From%20Linked%20List)
+25. [Daily Temperatures](https://github.com/iamabirakash/Leetcode/tree/main/Daily%20Temperatures)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
