@@ -20,6 +20,7 @@
 15. [Clear Digits](https://github.com/iamabirakash/Leetcode/tree/main/Clear%20Digits)
 16. [Minimum String Length After Removing Substrings](https://github.com/iamabirakash/Leetcode/tree/main/Minimum%20String%20Length%20After%20Removing%20Substrings)
 17. [Make The String Great](https://github.com/iamabirakash/Leetcode/tree/main/Make%20The%20String%20Great)
+18. [Replace Elements with Greatest Element on Right Sid](https://github.com/iamabirakash/Leetcode/tree/main/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side)
 
 * ## Medium
 1. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/iamabirakash/Leetcode/tree/main/Minimum_Difference)
