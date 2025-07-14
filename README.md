@@ -51,6 +51,7 @@
 24. [Remove Nodes From Linked List](https://github.com/iamabirakash/Leetcode/tree/main/Remove%20Nodes%20From%20Linked%20List)
 25. [Daily Temperatures](https://github.com/iamabirakash/Leetcode/tree/main/Daily%20Temperatures)
 26. [Sum of Subarray Minimums](https://github.com/iamabirakash/Leetcode/tree/main/Sum%20of%20Subarray%20Minimums)
+27. [Kth Largest Element in an Array](https://github.com/iamabirakash/Leetcode/tree/main/Kth%20Largest%20Element%20in%20an%20Array)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
