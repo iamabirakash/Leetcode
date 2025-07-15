@@ -54,6 +54,7 @@
 27. [Kth Largest Element in an Array](https://github.com/iamabirakash/Leetcode/tree/main/Kth%20Largest%20Element%20in%20an%20Array)
 28. [Combination Sum](https://github.com/iamabirakash/Leetcode/tree/main/Combination%20Sum)
 29. [Subsets II](https://github.com/iamabirakash/Leetcode/tree/main/Subsets%20II)
+30. [Palindrome Partitioning](https://github.com/iamabirakash/Leetcode/tree/main/Palindrome%20Partitioning)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
