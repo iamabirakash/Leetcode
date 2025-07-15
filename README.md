@@ -64,3 +64,4 @@
 5. [Integer to English Words](https://github.com/iamabirakash/Leetcode/tree/main/Integer%20to%20English%20Words)
 6. [Minimum Number of Days to Disconnect Island
 ](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/?envType=daily-question&envId=2024-08-11)
+7. [N-Queens](https://github.com/iamabirakash/Leetcode/tree/main/N-Queens)
