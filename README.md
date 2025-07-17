@@ -58,6 +58,7 @@
 30. [Palindrome Partitioning](https://github.com/iamabirakash/Leetcode/tree/main/Palindrome%20Partitioning)
 31. [String to Integer (atoi)](https://github.com/iamabirakash/Leetcode/tree/main/String%20to%20Integer%20(atoi))
 32. [Reverse Words in a String](https://github.com/iamabirakash/Leetcode/tree/main/Reverse%20Words%20in%20a%20String)
+33. [Longest Substring Without Repeating Characters](https://github.com/iamabirakash/Leetcode/tree/main/Longest%20Substring%20Without%20Repeating%20Characters)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
