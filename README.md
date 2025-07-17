@@ -23,6 +23,7 @@
 18. [Replace Elements with Greatest Element on Right Sid](https://github.com/iamabirakash/Leetcode/tree/main/Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side)
 19. [Final Prices With a Special Discount in a Shop](https://github.com/iamabirakash/Leetcode/tree/main/Final%20Prices%20With%20a%20Special%20Discount%20in%20a%20Shop)
 20. [Relative Ranks](https://github.com/iamabirakash/GFG/tree/main/QUEUE/Relative%20Ranks)
+21. [Isomorphic Strings](https://github.com/iamabirakash/Leetcode/tree/main/Isomorphic%20Strings)
 
 * ## Medium
 1. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/iamabirakash/Leetcode/tree/main/Minimum_Difference)
