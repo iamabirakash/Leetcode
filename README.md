@@ -61,6 +61,7 @@
 33. [Longest Substring Without Repeating Characters](https://github.com/iamabirakash/Leetcode/tree/main/Longest%20Substring%20Without%20Repeating%20Characters)
 34. [Multiply Strings](https://github.com/iamabirakash/Leetcode/tree/main/Multiply%20Strings)
 35. [Decode String](https://github.com/iamabirakash/Leetcode/tree/main/Decode%20String)
+36. [Next Permutation](https://github.com/iamabirakash/Leetcode/tree/main/Next%20Permutation)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
