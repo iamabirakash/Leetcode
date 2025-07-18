@@ -62,6 +62,7 @@
 34. [Multiply Strings](https://github.com/iamabirakash/Leetcode/tree/main/Multiply%20Strings)
 35. [Decode String](https://github.com/iamabirakash/Leetcode/tree/main/Decode%20String)
 36. [Next Permutation](https://github.com/iamabirakash/Leetcode/tree/main/Next%20Permutation)
+37. [Asteroid Collision](https://github.com/iamabirakash/Leetcode/tree/main/Asteroid%20Collision)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
