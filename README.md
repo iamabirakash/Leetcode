@@ -60,6 +60,7 @@
 32. [Reverse Words in a String](https://github.com/iamabirakash/Leetcode/tree/main/Reverse%20Words%20in%20a%20String)
 33. [Longest Substring Without Repeating Characters](https://github.com/iamabirakash/Leetcode/tree/main/Longest%20Substring%20Without%20Repeating%20Characters)
 34. [Multiply Strings](https://github.com/iamabirakash/Leetcode/tree/main/Multiply%20Strings)
+35. [Decode String](https://github.com/iamabirakash/Leetcode/tree/main/Decode%20String)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
