@@ -71,6 +71,7 @@
 40. [Max Consecutive Ones III](https://github.com/iamabirakash/Leetcode/tree/main/Max%20Consecutive%20Ones%20III)
 41. [Longest Repeating Character Replacement](https://github.com/iamabirakash/Leetcode/tree/main/Longest%20Repeating%20Character%20Replacement)
 42. [Climbing Stairs](https://github.com/iamabirakash/Leetcode/tree/main/Climbing%20Stairs)
+43. [House Robber](https://github.com/iamabirakash/Leetcode/tree/main/House%20Robber)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
