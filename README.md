@@ -26,6 +26,7 @@
 21. [Isomorphic Strings](https://github.com/iamabirakash/Leetcode/tree/main/Isomorphic%20Strings)
 22. [Power of Two](https://github.com/iamabirakash/Leetcode/tree/main/Power%20of%20Two)
 23. [Single Number](https://github.com/iamabirakash/Leetcode/tree/main/Single%20Number)
+24. [Add Binary](https://github.com/iamabirakash/Leetcode/tree/main/Add%20Binary)
 
 * ## Medium
 1. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/iamabirakash/Leetcode/tree/main/Minimum_Difference)
