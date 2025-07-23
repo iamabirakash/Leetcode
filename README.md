@@ -27,6 +27,7 @@
 22. [Power of Two](https://github.com/iamabirakash/Leetcode/tree/main/Power%20of%20Two)
 23. [Single Number](https://github.com/iamabirakash/Leetcode/tree/main/Single%20Number)
 24. [Add Binary](https://github.com/iamabirakash/Leetcode/tree/main/Add%20Binary)
+25. [Two Sum](https://github.com/iamabirakash/Leetcode/tree/main/Two%20Sum)
 
 * ## Medium
 1. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/iamabirakash/Leetcode/tree/main/Minimum_Difference)
