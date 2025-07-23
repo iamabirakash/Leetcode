@@ -81,6 +81,7 @@
 48. [Merge Intervals](https://github.com/iamabirakash/Leetcode/tree/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 49. [Rotate Image](https://github.com/iamabirakash/Leetcode/tree/main/Rotate%20Image)
 50. [Unique Paths](https://github.com/iamabirakash/Leetcode/tree/main/Unique%20Paths)
+51. [Unique Paths II](https://github.com/iamabirakash/Leetcode/tree/main/Unique%20Paths%20II)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
