@@ -76,6 +76,7 @@
 45. [Longest Common Subsequence](https://github.com/iamabirakash/Leetcode/tree/main/Longest%20Common%20Subsequence)
 46. [Maximum Subarray](https://github.com/iamabirakash/Leetcode/tree/main/Maximum%20Subarray)
 47. [Merge Intervals](https://github.com/iamabirakash/Leetcode/tree/main/Merge%20Intervals)
+48. [Merge Intervals](https://github.com/iamabirakash/Leetcode/tree/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
