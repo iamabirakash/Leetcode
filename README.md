@@ -82,6 +82,7 @@
 49. [Rotate Image](https://github.com/iamabirakash/Leetcode/tree/main/Rotate%20Image)
 50. [Unique Paths](https://github.com/iamabirakash/Leetcode/tree/main/Unique%20Paths)
 51. [Unique Paths II](https://github.com/iamabirakash/Leetcode/tree/main/Unique%20Paths%20II)
+52. [Minimum Path Sum](https://github.com/iamabirakash/Leetcode/tree/main/Minimum%20Path%20Sum)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
