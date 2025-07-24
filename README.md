@@ -86,6 +86,7 @@
 53. [Triangle](https://github.com/iamabirakash/Leetcode/tree/main/Triangle)
 54. [Minimum Falling Path Sum](https://github.com/iamabirakash/Leetcode/tree/main/Minimum%20Falling%20Path%20Sum)
 55. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/)
+56. [Assign Cookies](https://github.com/iamabirakash/Leetcode/tree/main/Assign%20Cookies)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
