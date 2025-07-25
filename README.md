@@ -90,6 +90,7 @@
 57. [Maximum Points You Can Obtain from Cards](https://github.com/iamabirakash/Leetcode/tree/main/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards)
 58. [Fruit Into Baskets](https://github.com/iamabirakash/Leetcode/tree/main/Fruit%20Into%20Baskets)
 59. [Boats to Save People](https://github.com/iamabirakash/Leetcode/tree/main/Boats%20to%20Save%20People)
+60. [Maximum Ice Cream Bars](https://github.com/iamabirakash/Leetcode/tree/main/Maximum%20Ice%20Cream%20Bars)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
