@@ -95,6 +95,7 @@
 62. [Maximum Element After Decreasing and Rearranging](https://github.com/iamabirakash/Leetcode/tree/main/Maximum%20Element%20After%20Decreasing%20and%20Rearranging)
 63. [Bag of Tokens](https://github.com/iamabirakash/Leetcode/tree/main/Bag%20of%20Tokens)
 64. [Break a Palindrome](https://github.com/iamabirakash/Leetcode/tree/main/Break%20a%20Palindrome)
+65. [Remove Colored Pieces if Both Neighbors are the Same Color](https://github.com/iamabirakash/Leetcode/tree/main/Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
