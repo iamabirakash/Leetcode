@@ -92,6 +92,7 @@
 59. [Boats to Save People](https://github.com/iamabirakash/Leetcode/tree/main/Boats%20to%20Save%20People)
 60. [Maximum Ice Cream Bars](https://github.com/iamabirakash/Leetcode/tree/main/Maximum%20Ice%20Cream%20Bars)
 61. [Broken Calculator](https://github.com/iamabirakash/Leetcode/tree/main/Broken%20Calculator)
+62. [Maximum Element After Decreasing and Rearranging](https://github.com/iamabirakash/Leetcode/tree/main/Maximum%20Element%20After%20Decreasing%20and%20Rearranging)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
