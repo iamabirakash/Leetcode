@@ -91,6 +91,7 @@
 58. [Fruit Into Baskets](https://github.com/iamabirakash/Leetcode/tree/main/Fruit%20Into%20Baskets)
 59. [Boats to Save People](https://github.com/iamabirakash/Leetcode/tree/main/Boats%20to%20Save%20People)
 60. [Maximum Ice Cream Bars](https://github.com/iamabirakash/Leetcode/tree/main/Maximum%20Ice%20Cream%20Bars)
+61. [Broken Calculator](https://github.com/iamabirakash/Leetcode/tree/main/Broken%20Calculator)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
