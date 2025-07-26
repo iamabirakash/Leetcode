@@ -99,6 +99,7 @@
 66. [Valid Parenthesis String](https://github.com/iamabirakash/Leetcode/tree/main/Valid%20Parenthesis%20String)
 67. [Minimum Number of Operations to Make Array Empty](https://github.com/iamabirakash/Leetcode/tree/main/Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Empty)
 68. [Longest Increasing Subsequence](https://github.com/iamabirakash/Leetcode/tree/main/Longest%20Increasing%20Subsequence)
+69. [Coin Change](https://github.com/iamabirakash/Leetcode/tree/main/Coin%20Change)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
