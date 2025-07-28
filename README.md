@@ -102,6 +102,7 @@
 68. [Longest Increasing Subsequence](https://github.com/iamabirakash/Leetcode/tree/main/Longest%20Increasing%20Subsequence)
 69. [Coin Change](https://github.com/iamabirakash/Leetcode/tree/main/Coin%20Change)
 70. [Implement Trie (Prefix Tree)](https://github.com/iamabirakash/Leetcode/tree/main/Implement%20Trie%20(Prefix%20Tree))
+71. [Course Schedule II](https://github.com/iamabirakash/Leetcode/tree/main/Course%20Schedule%20II)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
