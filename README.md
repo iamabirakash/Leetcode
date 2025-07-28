@@ -103,6 +103,7 @@
 69. [Coin Change](https://github.com/iamabirakash/Leetcode/tree/main/Coin%20Change)
 70. [Implement Trie (Prefix Tree)](https://github.com/iamabirakash/Leetcode/tree/main/Implement%20Trie%20(Prefix%20Tree))
 71. [Course Schedule II](https://github.com/iamabirakash/Leetcode/tree/main/Course%20Schedule%20II)
+72. [Count Number of Maximum Bitwise-OR Subsets](https://github.com/iamabirakash/Leetcode/tree/main/Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
