@@ -117,3 +117,4 @@
 ](https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/description/?envType=daily-question&envId=2024-08-11)
 7. [N-Queens](https://github.com/iamabirakash/Leetcode/tree/main/N-Queens)
 8. [Sliding Window Maximum](https://github.com/iamabirakash/Leetcode/tree/main/Sliding%20Window%20Maximum)
+9. [Rearranging Fruits](https://github.com/iamabirakash/Leetcode/tree/main/Rearranging%20Fruits)
