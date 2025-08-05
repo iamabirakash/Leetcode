@@ -30,6 +30,7 @@
 25. [Two Sum](https://github.com/iamabirakash/Leetcode/tree/main/Two%20Sum)
 26. [Pascal's Triangle](https://github.com/iamabirakash/Leetcode/tree/main/Pascal's%20Triangle)
 27. [Count Hills and Valleys in an Array](https://github.com/iamabirakash/Leetcode/tree/main/Count%20Hills%20and%20Valleys%20in%20an%20Array)
+28. [Fruits Into Baskets II](https://github.com/iamabirakash/Leetcode/tree/main/Fruits%20Into%20Baskets%20II)
 
 * ## Medium
 1. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/iamabirakash/Leetcode/tree/main/Minimum_Difference)
