@@ -107,6 +107,7 @@
 72. [Count Number of Maximum Bitwise-OR Subsets](https://github.com/iamabirakash/Leetcode/tree/main/Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets)
 73. [Integer to Roman](https://github.com/iamabirakash/Leetcode/tree/main/Integer%20to%20Roman)
 74. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=problem-list-v2&envId=hash-table)
+75. [Soup Servings](https://github.com/iamabirakash/Leetcode/new/main/Soup%20Servings)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
