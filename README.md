@@ -108,6 +108,7 @@
 73. [Integer to Roman](https://github.com/iamabirakash/Leetcode/tree/main/Integer%20to%20Roman)
 74. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=problem-list-v2&envId=hash-table)
 75. [Soup Servings](https://github.com/iamabirakash/Leetcode/new/main/Soup%20Servings)
+76. [Reordered Power of 2](https://github.com/iamabirakash/Leetcode/new/main/Reordered%20Power%20of%202)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
