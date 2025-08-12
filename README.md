@@ -110,6 +110,7 @@
 75. [Soup Servings](https://github.com/iamabirakash/Leetcode/new/main/Soup%20Servings)
 76. [Reordered Power of 2](https://github.com/iamabirakash/Leetcode/new/main/Reordered%20Power%20of%202)
 77. [Range Product Queries of Powers](https://github.com/iamabirakash/Leetcode/tree/main/Range%20Product%20Queries%20of%20Powers)
+78. [Ways to Express an Integer as Sum of Powers](https://github.com/iamabirakash/Leetcode/tree/main/Ways%20to%20Express%20an%20Integer%20as%20Sum%20of%20Powers)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
