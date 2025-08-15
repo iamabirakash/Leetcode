@@ -33,6 +33,7 @@
 28. [Fruits Into Baskets II](https://github.com/iamabirakash/Leetcode/tree/main/Fruits%20Into%20Baskets%20II)
 29. [Power of Three](https://github.com/iamabirakash/Leetcode/tree/main/Power%20of%20Three)
 30. [Largest 3-Same-Digit Number in String](https://github.com/iamabirakash/Leetcode/tree/main/Largest%203-Same-Digit%20Number%20in%20String)
+31. [Power of Four](https://github.com/iamabirakash/Leetcode/tree/main/Power%20of%20Four)
 
 * ## Medium
 1. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/iamabirakash/Leetcode/tree/main/Minimum_Difference)
