@@ -128,3 +128,4 @@
 8. [Sliding Window Maximum](https://github.com/iamabirakash/Leetcode/tree/main/Sliding%20Window%20Maximum)
 9. [Rearranging Fruits](https://github.com/iamabirakash/Leetcode/tree/main/Rearranging%20Fruits)
 10. [Find the Maximum Number of Fruits Collected](https://github.com/iamabirakash/Leetcode/tree/main/Find%20the%20Maximum%20Number%20of%20Fruits%20Collected)
+11. [Length of Longest V-Shaped Diagonal Segment](https://github.com/iamabirakash/Leetcode/tree/main/Length%20of%20Longest%20V-Shaped%20Diagonal%20Segment)
