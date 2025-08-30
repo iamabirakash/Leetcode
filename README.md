@@ -117,6 +117,7 @@
 79. [Maximum Area of Longest Diagonal Rectangle](https://github.com/iamabirakash/Leetcode/tree/main/Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle)
 80. [Sort Matrix by Diagonals](https://github.com/iamabirakash/Leetcode/tree/main/Sort%20Matrix%20by%20Diagonals)
 81. [Alice and Bob Playing Flower Game](https://github.com/iamabirakash/Leetcode/tree/main/Alice%20and%20Bob%20Playing%20Flower%20Game)
+82. [Valid Sudoku](https://github.com/iamabirakash/Leetcode/tree/main/Valid%20Sudoku)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
