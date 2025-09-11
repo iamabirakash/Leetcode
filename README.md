@@ -35,6 +35,7 @@
 30. [Largest 3-Same-Digit Number in String](https://github.com/iamabirakash/Leetcode/tree/main/Largest%203-Same-Digit%20Number%20in%20String)
 31. [Power of Four](https://github.com/iamabirakash/Leetcode/tree/main/Power%20of%20Four)
 32. [Find Closest Person](https://github.com/iamabirakash/Leetcode/tree/main/Find%20Closest%20Person)
+33. [Remove Element](https://github.com/iamabirakash/Leetcode/tree/main/Remove%20Element)
 
 * ## Medium
 1. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/iamabirakash/Leetcode/tree/main/Minimum_Difference)
