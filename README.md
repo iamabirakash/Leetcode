@@ -120,6 +120,7 @@
 80. [Sort Matrix by Diagonals](https://github.com/iamabirakash/Leetcode/tree/main/Sort%20Matrix%20by%20Diagonals)
 81. [Alice and Bob Playing Flower Game](https://github.com/iamabirakash/Leetcode/tree/main/Alice%20and%20Bob%20Playing%20Flower%20Game)
 82. [Valid Sudoku](https://github.com/iamabirakash/Leetcode/tree/main/Valid%20Sudoku)
+83. [Sort Vowels in a String](https://github.com/iamabirakash/Leetcode/tree/main/Sort%20Vowels%20in%20a%20String)
 
 * ## Hard
 1. [Median of Two Sorted Arrays](https://github.com/iamabirakash/Leetcode/tree/main/Median%20Of%20Two%20Sorted%20Arrays)
