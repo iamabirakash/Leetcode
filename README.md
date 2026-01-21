@@ -39,6 +39,7 @@
 34. [Maximum Number of Words You Can Type](https://github.com/iamabirakash/Leetcode/tree/main/1935.%20Maximum%20Number%20of%20Words%20You%20Can%20Type)
 35. [Fibonacci Number](https://github.com/iamabirakash/Leetcode/tree/main/Fibonacci%20Number)
 36. [N-th Tribonacci Number](https://github.com/iamabirakash/Leetcode/tree/main/DYNAMIC%20PROGRAMMING/N-th%20Tribonacci%20Number)
+37. [Min Cost Climbing Stairs](https://github.com/iamabirakash/Leetcode/tree/main/DYNAMIC%20PROGRAMMING/Min%20Cost%20Climbing%20Stairs)
 
 * ## Medium
 1. [Minimum Difference Between Largest and Smallest Value in Three Moves](https://github.com/iamabirakash/Leetcode/tree/main/Minimum_Difference)
