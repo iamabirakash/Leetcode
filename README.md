@@ -2,6 +2,9 @@
 
 [iamabirakash](https://leetcode.com/u/iamabirakash/)
 
+* ## Specific
+1. [Dynamic Programming](https://github.com/iamabirakash/Leetcode/tree/main/DYNAMIC%20PROGRAMMING/House%20Robbers)
+
 * ## Easy
 1. [Intersection of Two Arrays II](https://github.com/iamabirakash/Leetcode/tree/main/Intersection_Two_Arrays)
 2. [Pass the Pillow](https://github.com/iamabirakash/Leetcode/tree/main/Pass%20The%20Pillow)
