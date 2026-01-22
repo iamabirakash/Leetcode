@@ -3,7 +3,7 @@
 [iamabirakash](https://leetcode.com/u/iamabirakash/)
 
 * ## Specific
-1. [Dynamic Programming](https://github.com/iamabirakash/Leetcode/tree/main/DYNAMIC%20PROGRAMMING/House%20Robbers)
+1. [Dynamic Programming](https://github.com/iamabirakash/Leetcode/tree/main/DYNAMIC%20PROGRAMMING)
 
 * ## Easy
 1. [Intersection of Two Arrays II](https://github.com/iamabirakash/Leetcode/tree/main/Intersection_Two_Arrays)
