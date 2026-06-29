@@ -5,6 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
+- [Array](#array) (1)
 
 - [Dynamic Programming](#dynamic-programming) (34)
 - [Graphs](#graphs) (8)
@@ -22,8 +23,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Backtracking](#backtracking) (19)
 - [Greedy](#greedy) (16)
 - [Sorting](#sorting) (19)
-- [Hash Table](#hash-table) (16)
-- [Prefix Sum](#prefix-sum) (17)
+- [Hash Table](#hash-table) (1)
+- [Prefix Sum](#prefix-sum) (1)
 - [Bit Manipulation](#bit-manipulation) (11)
 - [Math](#math) (33)
 - [Simulation](#simulation) (19)
@@ -442,6 +443,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 15. [weighted-word-mapping](weighted-word-mapping)
 16. [words-within-two-edits-of-dictionary](words-within-two-edits-of-dictionary)
 
+- [Subarray Sum Equals K](subarray-sum-equals-k/)
 ## Prefix Sum
 
 1. [binary-subarrays-with-sum](binary-subarrays-with-sum)
@@ -462,6 +464,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 16. [Sum of Subarray Minimums](Sum%20of%20Subarray%20Minimums)
 17. [xor-after-range-multiplication-queries-i](xor-after-range-multiplication-queries-i)
 
+- [Subarray Sum Equals K](subarray-sum-equals-k/)
 ## Bit Manipulation
 
 1. [Count Number of Maximum Bitwise-OR Subsets](Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets)
@@ -537,3 +540,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Database / SQL
 
 1. [Combine Two Tables](Combine_Two_Tables)
+
+
+## Array
+- [Subarray Sum Equals K](subarray-sum-equals-k/)
