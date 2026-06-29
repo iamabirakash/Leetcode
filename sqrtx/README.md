@@ -1,4 +1,4 @@
-<h2><a href="leetcode.com/problems/sqrtx/submissions/2049581769/">sqrtx</a></h2>
+<h2><a href="leetcode.com/problems/sqrtx/">sqrtx</a></h2>
 
 <p>Given a non-negative integer <code>x</code>, return <em>the square root of </em><code>x</code><em> rounded down to the nearest integer</em>. The returned integer should be <strong>non-negative</strong> as well.</p>
 
