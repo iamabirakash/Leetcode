@@ -19,14 +19,14 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (22)
 - [Two Pointers](#two-pointers) (12)
-- [Binary Search](#binary-search) (9)
+- [Binary Search](#binary-search) (1)
 - [Backtracking](#backtracking) (19)
 - [Greedy](#greedy) (16)
 - [Sorting](#sorting) (19)
 - [Hash Table](#hash-table) (1)
 - [Prefix Sum](#prefix-sum) (1)
 - [Bit Manipulation](#bit-manipulation) (11)
-- [Math](#math) (33)
+- [Math](#math) (1)
 - [Simulation](#simulation) (19)
 - [Database / SQL](#database-sql) (1)
 
@@ -361,6 +361,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 8. [minimum-size-subarray-sum](minimum-size-subarray-sum)
 9. [Search in a Binary Search Tree](Search%20in%20a%20Binary%20Search%20Tree)
 
+- [Arranging Coins](arranging-coins/)
 ## Backtracking
 
 1. [Combination Sum](Combination%20Sum)
@@ -515,6 +516,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 32. [Ways to Express an Integer as Sum of Powers](Ways%20to%20Express%20an%20Integer%20as%20Sum%20of%20Powers)
 33. [zigzag-conversion](zigzag-conversion)
 
+- [Arranging Coins](arranging-coins/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
