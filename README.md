@@ -360,8 +360,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 7. [Median Of Two Sorted Arrays](Median%20Of%20Two%20Sorted%20Arrays)
 8. [minimum-size-subarray-sum](minimum-size-subarray-sum)
 9. [Search in a Binary Search Tree](Search%20in%20a%20Binary%20Search%20Tree)
-
-- [Arranging Coins](arranging-coins/)
+10. [Arranging Coins](arranging-coins/)
+    
 ## Backtracking
 
 1. [Combination Sum](Combination%20Sum)
@@ -443,8 +443,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 14. [Valid Sudoku](Valid%20Sudoku)
 15. [weighted-word-mapping](weighted-word-mapping)
 16. [words-within-two-edits-of-dictionary](words-within-two-edits-of-dictionary)
-
-- [Subarray Sum Equals K](subarray-sum-equals-k/)
+17. [Subarray Sum Equals K](subarray-sum-equals-k/)
+    
 ## Prefix Sum
 
 1. [binary-subarrays-with-sum](binary-subarrays-with-sum)
@@ -464,8 +464,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 15. [shortest-subarray-to-be-removed-to-make-array-sorted](shortest-subarray-to-be-removed-to-make-array-sorted)
 16. [Sum of Subarray Minimums](Sum%20of%20Subarray%20Minimums)
 17. [xor-after-range-multiplication-queries-i](xor-after-range-multiplication-queries-i)
-
-- [Subarray Sum Equals K](subarray-sum-equals-k/)
+18. [Subarray Sum Equals K](subarray-sum-equals-k/)
+    
 ## Bit Manipulation
 
 1. [Count Number of Maximum Bitwise-OR Subsets](Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets)
@@ -515,8 +515,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 31. [Water Bottles](Water_Bottles)
 32. [Ways to Express an Integer as Sum of Powers](Ways%20to%20Express%20an%20Integer%20as%20Sum%20of%20Powers)
 33. [zigzag-conversion](zigzag-conversion)
+34. [Arranging Coins](arranging-coins/)
 
-- [Arranging Coins](arranging-coins/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -545,4 +545,4 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 
 ## Array
-- [Subarray Sum Equals K](subarray-sum-equals-k/)
+1. [Subarray Sum Equals K](subarray-sum-equals-k/)
