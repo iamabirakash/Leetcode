@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (1)
+- [Array](#array) (2)
 
 - [Dynamic Programming](#dynamic-programming) (34)
 - [Graphs](#graphs) (8)
@@ -23,8 +23,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Backtracking](#backtracking) (19)
 - [Greedy](#greedy) (16)
 - [Sorting](#sorting) (19)
-- [Hash Table](#hash-table) (1)
-- [Prefix Sum](#prefix-sum) (1)
+- [Hash Table](#hash-table) (18)
+- [Prefix Sum](#prefix-sum) (18)
 - [Bit Manipulation](#bit-manipulation) (11)
 - [Math](#math) (1)
 - [Simulation](#simulation) (19)
@@ -444,6 +444,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 15. [weighted-word-mapping](weighted-word-mapping)
 16. [words-within-two-edits-of-dictionary](words-within-two-edits-of-dictionary)
 17. [Subarray Sum Equals K](subarray-sum-equals-k/)
+18. [Binary Subarrays With Sum](binary-subarrays-with-sum/)
     
 ## Prefix Sum
 
@@ -546,3 +547,4 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Array
 1. [Subarray Sum Equals K](subarray-sum-equals-k/)
+2. [Binary Subarrays With Sum](binary-subarrays-with-sum/)
