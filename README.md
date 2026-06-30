@@ -17,7 +17,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Stack](#stack) (13)
 - [Queue](#queue) (2)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
-- [Sliding Window](#sliding-window) (1)
+- [Sliding Window](#sliding-window) (23)
 - [Two Pointers](#two-pointers) (12)
 - [Binary Search](#binary-search) (11)
 - [Backtracking](#backtracking) (19)
