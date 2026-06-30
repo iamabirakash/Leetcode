@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/submissions/2041749527/?utm=codolio">number-of-substrings-containing-all-three-characters</a></h2>
+<h2><a href="https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/?envType=daily-question&envId=2026-06-30">number-of-substrings-containing-all-three-characters</a></h2>
 
 <p>Given a string <code>s</code>&nbsp;consisting only of characters <em>a</em>, <em>b</em> and <em>c</em>.</p>
 
