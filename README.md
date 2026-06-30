@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (3)
+- [Array](#array) (4)
 - [String](#string) (1)
 - [Dynamic Programming](#dynamic-programming) (34)
 - [Graphs](#graphs) (8)
@@ -23,8 +23,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Backtracking](#backtracking) (19)
 - [Greedy](#greedy) (16)
 - [Sorting](#sorting) (20)
-- [Hash Table](#hash-table) (1)
-- [Prefix Sum](#prefix-sum) (18)
+- [Hash Table](#hash-table) (20)
+- [Prefix Sum](#prefix-sum) (19)
 - [Bit Manipulation](#bit-manipulation) (11)
 - [Math](#math) (1)
 - [Simulation](#simulation) (19)
@@ -450,6 +450,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 18. [Binary Subarrays With Sum](binary-subarrays-with-sum/)
 19. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
     
+20. [Check if All the Integers in a Range Are Covered](check-if-all-the-integers-in-a-range-are-covered/)
 ## Prefix Sum
 
 1. [binary-subarrays-with-sum](binary-subarrays-with-sum)
@@ -471,6 +472,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 17. [xor-after-range-multiplication-queries-i](xor-after-range-multiplication-queries-i)
 18. [Subarray Sum Equals K](subarray-sum-equals-k/)
     
+19. [Check if All the Integers in a Range Are Covered](check-if-all-the-integers-in-a-range-are-covered/)
 ## Bit Manipulation
 
 1. [Count Number of Maximum Bitwise-OR Subsets](Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets)
@@ -555,6 +557,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 
 3. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
+4. [Check if All the Integers in a Range Are Covered](check-if-all-the-integers-in-a-range-are-covered/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
