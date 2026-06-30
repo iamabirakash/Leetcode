@@ -6,6 +6,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Topics
 - [Array](#array) (2)
+- [String](#string) (1)
 
 - [Dynamic Programming](#dynamic-programming) (34)
 - [Graphs](#graphs) (8)
@@ -17,13 +18,13 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Stack](#stack) (13)
 - [Queue](#queue) (2)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
-- [Sliding Window](#sliding-window) (22)
+- [Sliding Window](#sliding-window) (1)
 - [Two Pointers](#two-pointers) (12)
 - [Binary Search](#binary-search) (1)
 - [Backtracking](#backtracking) (19)
 - [Greedy](#greedy) (16)
 - [Sorting](#sorting) (19)
-- [Hash Table](#hash-table) (18)
+- [Hash Table](#hash-table) (1)
 - [Prefix Sum](#prefix-sum) (18)
 - [Bit Manipulation](#bit-manipulation) (11)
 - [Math](#math) (1)
@@ -334,6 +335,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 21. [Sliding Window Maximum](Sliding%20Window%20Maximum)
 22. [Sum of Subarray Minimums](Sum%20of%20Subarray%20Minimums)
 
+- [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
 ## Two Pointers
 
 1. [Boats to Save People](Boats%20to%20Save%20People)
@@ -446,6 +448,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 17. [Subarray Sum Equals K](subarray-sum-equals-k/)
 18. [Binary Subarrays With Sum](binary-subarrays-with-sum/)
     
+- [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
 ## Prefix Sum
 
 1. [binary-subarrays-with-sum](binary-subarrays-with-sum)
@@ -548,3 +551,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Array
 1. [Subarray Sum Equals K](subarray-sum-equals-k/)
 2. [Binary Subarrays With Sum](binary-subarrays-with-sum/)
+
+
+## String
+- [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
