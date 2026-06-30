@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (6)
+- [Array](#array) (7)
 - [String](#string) (1)
 - [Dynamic Programming](#dynamic-programming) (34)
 - [Graphs](#graphs) (8)
@@ -24,7 +24,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Greedy](#greedy) (16)
 - [Sorting](#sorting) (20)
 - [Hash Table](#hash-table) (20)
-- [Prefix Sum](#prefix-sum) (20)
+- [Prefix Sum](#prefix-sum) (21)
 - [Bit Manipulation](#bit-manipulation) (11)
 - [Math](#math) (1)
 - [Simulation](#simulation) (19)
@@ -475,6 +475,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
     
 19. [Check if All the Integers in a Range Are Covered](check-if-all-the-integers-in-a-range-are-covered/)
 20. [Find the Middle Index in Array](find-the-middle-index-in-array/)
+21. [Left and Right Sum Differences](left-and-right-sum-differences/)
 ## Bit Manipulation
 
 1. [Count Number of Maximum Bitwise-OR Subsets](Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets)
@@ -562,6 +563,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 4. [Check if All the Integers in a Range Are Covered](check-if-all-the-integers-in-a-range-are-covered/)
 5. [Find the Middle Index in Array](find-the-middle-index-in-array/)
 6. [Koko Eating Bananas](koko-eating-bananas/)
+7. [Left and Right Sum Differences](left-and-right-sum-differences/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
