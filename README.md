@@ -7,7 +7,6 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Topics
 - [Array](#array) (2)
 - [String](#string) (1)
-
 - [Dynamic Programming](#dynamic-programming) (34)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
@@ -334,8 +333,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 20. [shortest-subarray-to-be-removed-to-make-array-sorted](shortest-subarray-to-be-removed-to-make-array-sorted)
 21. [Sliding Window Maximum](Sliding%20Window%20Maximum)
 22. [Sum of Subarray Minimums](Sum%20of%20Subarray%20Minimums)
-
-- [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
+23. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
+    
 ## Two Pointers
 
 1. [Boats to Save People](Boats%20to%20Save%20People)
@@ -447,8 +446,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 16. [words-within-two-edits-of-dictionary](words-within-two-edits-of-dictionary)
 17. [Subarray Sum Equals K](subarray-sum-equals-k/)
 18. [Binary Subarrays With Sum](binary-subarrays-with-sum/)
+19. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
     
-- [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
 ## Prefix Sum
 
 1. [binary-subarrays-with-sum](binary-subarrays-with-sum)
