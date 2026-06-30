@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (5)
+- [Array](#array) (6)
 - [String](#string) (1)
 - [Dynamic Programming](#dynamic-programming) (34)
 - [Graphs](#graphs) (8)
@@ -19,7 +19,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (1)
 - [Two Pointers](#two-pointers) (12)
-- [Binary Search](#binary-search) (1)
+- [Binary Search](#binary-search) (11)
 - [Backtracking](#backtracking) (19)
 - [Greedy](#greedy) (16)
 - [Sorting](#sorting) (20)
@@ -364,6 +364,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 9. [Search in a Binary Search Tree](Search%20in%20a%20Binary%20Search%20Tree)
 10. [Arranging Coins](arranging-coins/)
     
+11. [Koko Eating Bananas](koko-eating-bananas/)
 ## Backtracking
 
 1. [Combination Sum](Combination%20Sum)
@@ -560,6 +561,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 3. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 4. [Check if All the Integers in a Range Are Covered](check-if-all-the-integers-in-a-range-are-covered/)
 5. [Find the Middle Index in Array](find-the-middle-index-in-array/)
+6. [Koko Eating Bananas](koko-eating-bananas/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
