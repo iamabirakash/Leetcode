@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (2)
+- [Array](#array) (3)
 - [String](#string) (1)
 - [Dynamic Programming](#dynamic-programming) (34)
 - [Graphs](#graphs) (8)
@@ -22,13 +22,14 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Binary Search](#binary-search) (1)
 - [Backtracking](#backtracking) (19)
 - [Greedy](#greedy) (16)
-- [Sorting](#sorting) (19)
+- [Sorting](#sorting) (20)
 - [Hash Table](#hash-table) (1)
 - [Prefix Sum](#prefix-sum) (18)
 - [Bit Manipulation](#bit-manipulation) (11)
 - [Math](#math) (1)
 - [Simulation](#simulation) (19)
 - [Database / SQL](#database-sql) (1)
+- [Enumeration](#enumeration) (1)
 
 ## Dynamic Programming
 
@@ -426,6 +427,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 18. [Sort the People](Sort%20the%20People)
 19. [Sort Vowels in a String](Sort%20Vowels%20in%20a%20String)
 
+20. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 ## Hash Table
 
 1. [closest-equal-element-queries](closest-equal-element-queries)
@@ -552,5 +554,10 @@ A topic-wise index of the solution folders in this repository. Some problems app
 2. [Binary Subarrays With Sum](binary-subarrays-with-sum/)
 
 
+3. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 ## String
 - [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
+
+
+## Enumeration
+1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
