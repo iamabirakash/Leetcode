@@ -556,8 +556,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 3. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 ## String
-- [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
 
+1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
 
 ## Enumeration
 1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
