@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (8)
+- [Array](#array) (9)
 - [String](#string) (1)
 - [Dynamic Programming](#dynamic-programming) (34)
 - [Graphs](#graphs) (8)
@@ -19,7 +19,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
 - [Two Pointers](#two-pointers) (12)
-- [Binary Search](#binary-search) (11)
+- [Binary Search](#binary-search) (12)
 - [Backtracking](#backtracking) (19)
 - [Greedy](#greedy) (16)
 - [Sorting](#sorting) (20)
@@ -365,6 +365,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 10. [Arranging Coins](arranging-coins/)
     
 11. [Koko Eating Bananas](koko-eating-bananas/)
+12. [Capacity To Ship Packages Within D Days](capacity-to-ship-packages-within-d-days/)
 ## Backtracking
 
 1. [Combination Sum](Combination%20Sum)
@@ -567,6 +568,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 6. [Koko Eating Bananas](koko-eating-bananas/)
 7. [Left and Right Sum Differences](left-and-right-sum-differences/)
 8. [Points That Intersect With Cars](points-that-intersect-with-cars/)
+9. [Capacity To Ship Packages Within D Days](capacity-to-ship-packages-within-d-days/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
