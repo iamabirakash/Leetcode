@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (9)
+- [Array](#array) (10)
 - [String](#string) (1)
 - [Dynamic Programming](#dynamic-programming) (34)
 - [Graphs](#graphs) (8)
@@ -30,6 +30,11 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Simulation](#simulation) (19)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (1)
+- [Breadth-First Search](#breadth-first-search) (1)
+- [Graph Theory](#graph-theory) (1)
+- [Heap (Priority Queue)](#heap-priority-queue) (1)
+- [Matrix](#matrix) (1)
+- [Shortest Path](#shortest-path) (1)
 
 ## Dynamic Programming
 
@@ -569,9 +574,26 @@ A topic-wise index of the solution folders in this repository. Some problems app
 7. [Left and Right Sum Differences](left-and-right-sum-differences/)
 8. [Points That Intersect With Cars](points-that-intersect-with-cars/)
 9. [Capacity To Ship Packages Within D Days](capacity-to-ship-packages-within-d-days/)
+10. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
 
 ## Enumeration
 1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
+
+
+## Breadth-First Search
+1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
+
+## Graph Theory
+1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
+
+## Heap (Priority Queue)
+1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
+
+## Matrix
+1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
+
+## Shortest Path
+1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
