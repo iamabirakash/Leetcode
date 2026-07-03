@@ -5,9 +5,9 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (10)
+- [Array](#array) (11)
 - [String](#string) (1)
-- [Dynamic Programming](#dynamic-programming) (34)
+- [Dynamic Programming](#dynamic-programming) (35)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
 - [Matrix & Grid](#matrix-grid) (22)
@@ -19,7 +19,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
 - [Two Pointers](#two-pointers) (12)
-- [Binary Search](#binary-search) (12)
+- [Binary Search](#binary-search) (13)
 - [Backtracking](#backtracking) (19)
 - [Greedy](#greedy) (16)
 - [Sorting](#sorting) (20)
@@ -31,10 +31,11 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (1)
 - [Breadth-First Search](#breadth-first-search) (1)
-- [Graph Theory](#graph-theory) (1)
+- [Graph Theory](#graph-theory) (2)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Matrix](#matrix) (1)
-- [Shortest Path](#shortest-path) (1)
+- [Shortest Path](#shortest-path) (2)
+- [Topological Sort](#topological-sort) (1)
 
 ## Dynamic Programming
 
@@ -73,6 +74,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 33. [Unique Paths II](Unique%20Paths%20II)
 34. [Ways to Express an Integer as Sum of Powers](Ways%20to%20Express%20an%20Integer%20as%20Sum%20of%20Powers)
 
+35. [Network Recovery Pathways](network-recovery-pathways/)
 ## Graphs
 
 1. [check-if-there-is-a-valid-path-in-a-grid](check-if-there-is-a-valid-path-in-a-grid)
@@ -371,6 +373,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
     
 11. [Koko Eating Bananas](koko-eating-bananas/)
 12. [Capacity To Ship Packages Within D Days](capacity-to-ship-packages-within-d-days/)
+13. [Network Recovery Pathways](network-recovery-pathways/)
 ## Backtracking
 
 1. [Combination Sum](Combination%20Sum)
@@ -575,6 +578,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 8. [Points That Intersect With Cars](points-that-intersect-with-cars/)
 9. [Capacity To Ship Packages Within D Days](capacity-to-ship-packages-within-d-days/)
 10. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
+11. [Network Recovery Pathways](network-recovery-pathways/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -589,11 +593,17 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Graph Theory
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
+2. [Network Recovery Pathways](network-recovery-pathways/)
 ## Heap (Priority Queue)
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
+2. [Network Recovery Pathways](network-recovery-pathways/)
 ## Matrix
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
 ## Shortest Path
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
+
+2. [Network Recovery Pathways](network-recovery-pathways/)
+## Topological Sort
+1. [Network Recovery Pathways](network-recovery-pathways/)
