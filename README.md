@@ -30,12 +30,14 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Simulation](#simulation) (19)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (1)
-- [Breadth-First Search](#breadth-first-search) (1)
-- [Graph Theory](#graph-theory) (2)
+- [Breadth-First Search](#breadth-first-search) (2)
+- [Graph Theory](#graph-theory) (3)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Matrix](#matrix) (1)
 - [Shortest Path](#shortest-path) (2)
 - [Topological Sort](#topological-sort) (1)
+- [Depth-First Search](#depth-first-search) (1)
+- [Union-Find](#union-find) (1)
 
 ## Dynamic Programming
 
@@ -590,10 +592,12 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Breadth-First Search
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
+2. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
 ## Graph Theory
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
 2. [Network Recovery Pathways](network-recovery-pathways/)
+3. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
 ## Heap (Priority Queue)
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
@@ -607,3 +611,9 @@ A topic-wise index of the solution folders in this repository. Some problems app
 2. [Network Recovery Pathways](network-recovery-pathways/)
 ## Topological Sort
 1. [Network Recovery Pathways](network-recovery-pathways/)
+
+## Depth-First Search
+1. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
+
+## Union-Find
+1. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
