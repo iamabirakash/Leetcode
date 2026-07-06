@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (11)
+- [Array](#array) (12)
 - [String](#string) (1)
 - [Dynamic Programming](#dynamic-programming) (35)
 - [Graphs](#graphs) (8)
@@ -22,7 +22,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Binary Search](#binary-search) (13)
 - [Backtracking](#backtracking) (19)
 - [Greedy](#greedy) (16)
-- [Sorting](#sorting) (20)
+- [Sorting](#sorting) (21)
 - [Hash Table](#hash-table) (21)
 - [Prefix Sum](#prefix-sum) (22)
 - [Bit Manipulation](#bit-manipulation) (11)
@@ -440,6 +440,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 19. [Sort Vowels in a String](Sort%20Vowels%20in%20a%20String)
 
 20. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
+21. [Remove Covered Intervals](remove-covered-intervals/)
 ## Hash Table
 
 1. [closest-equal-element-queries](closest-equal-element-queries)
@@ -581,6 +582,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 9. [Capacity To Ship Packages Within D Days](capacity-to-ship-packages-within-d-days/)
 10. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 11. [Network Recovery Pathways](network-recovery-pathways/)
+12. [Remove Covered Intervals](remove-covered-intervals/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
