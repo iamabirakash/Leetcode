@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (13)
+- [Array](#array) (14)
 - [String](#string) (1)
 - [Dynamic Programming](#dynamic-programming) (35)
 - [Graphs](#graphs) (8)
@@ -22,8 +22,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Binary Search](#binary-search) (14)
 - [Backtracking](#backtracking) (19)
 - [Greedy](#greedy) (16)
-- [Sorting](#sorting) (21)
-- [Hash Table](#hash-table) (21)
+- [Sorting](#sorting) (22)
+- [Hash Table](#hash-table) (22)
 - [Prefix Sum](#prefix-sum) (22)
 - [Bit Manipulation](#bit-manipulation) (11)
 - [Math](#math) (36)
@@ -40,6 +40,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Union-Find](#union-find) (1)
 - [Recursion](#recursion) (1)
 - [Divide and Conquer](#divide-and-conquer) (1)
+- [Counting Sort](#counting-sort) (1)
 
 ## Dynamic Programming
 
@@ -445,6 +446,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 20. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 21. [Remove Covered Intervals](remove-covered-intervals/)
+22. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 ## Hash Table
 
 1. [closest-equal-element-queries](closest-equal-element-queries)
@@ -469,6 +471,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
     
 20. [Check if All the Integers in a Range Are Covered](check-if-all-the-integers-in-a-range-are-covered/)
 21. [Points That Intersect With Cars](points-that-intersect-with-cars/)
+22. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 ## Prefix Sum
 
 1. [binary-subarrays-with-sum](binary-subarrays-with-sum)
@@ -590,6 +593,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 11. [Network Recovery Pathways](network-recovery-pathways/)
 12. [Remove Covered Intervals](remove-covered-intervals/)
 13. [Median of Two Sorted Arrays](median-of-two-sorted-arrays/)
+14. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -632,3 +636,6 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Divide and Conquer
 1. [Median of Two Sorted Arrays](median-of-two-sorted-arrays/)
+
+## Counting Sort
+1. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
