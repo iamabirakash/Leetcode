@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (12)
+- [Array](#array) (13)
 - [String](#string) (1)
 - [Dynamic Programming](#dynamic-programming) (35)
 - [Graphs](#graphs) (8)
@@ -19,7 +19,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
 - [Two Pointers](#two-pointers) (12)
-- [Binary Search](#binary-search) (13)
+- [Binary Search](#binary-search) (14)
 - [Backtracking](#backtracking) (19)
 - [Greedy](#greedy) (16)
 - [Sorting](#sorting) (21)
@@ -39,6 +39,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Depth-First Search](#depth-first-search) (1)
 - [Union-Find](#union-find) (1)
 - [Recursion](#recursion) (1)
+- [Divide and Conquer](#divide-and-conquer) (1)
 
 ## Dynamic Programming
 
@@ -378,6 +379,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 11. [Koko Eating Bananas](koko-eating-bananas/)
 12. [Capacity To Ship Packages Within D Days](capacity-to-ship-packages-within-d-days/)
 13. [Network Recovery Pathways](network-recovery-pathways/)
+14. [Median of Two Sorted Arrays](median-of-two-sorted-arrays/)
 ## Backtracking
 
 1. [Combination Sum](Combination%20Sum)
@@ -587,6 +589,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 10. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 11. [Network Recovery Pathways](network-recovery-pathways/)
 12. [Remove Covered Intervals](remove-covered-intervals/)
+13. [Median of Two Sorted Arrays](median-of-two-sorted-arrays/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -626,3 +629,6 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Recursion
 1. [Add Two Numbers](add-two-numbers/)
+
+## Divide and Conquer
+1. [Median of Two Sorted Arrays](median-of-two-sorted-arrays/)
