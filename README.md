@@ -26,7 +26,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Hash Table](#hash-table) (21)
 - [Prefix Sum](#prefix-sum) (22)
 - [Bit Manipulation](#bit-manipulation) (11)
-- [Math](#math) (1)
+- [Math](#math) (35)
 - [Simulation](#simulation) (19)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (1)
@@ -541,6 +541,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 33. [zigzag-conversion](zigzag-conversion)
 34. [Arranging Coins](arranging-coins/)
 
+35. [Concatenate Non-Zero Digits and Multiply by Sum I](concatenate-non-zero-digits-and-multiply-by-sum-i/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
