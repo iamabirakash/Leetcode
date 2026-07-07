@@ -13,7 +13,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Matrix & Grid](#matrix-grid) (22)
 - [Strings](#strings) (43)
 - [Arrays](#arrays) (76)
-- [Linked List](#linked-list) (15)
+- [Linked List](#linked-list) (16)
 - [Stack](#stack) (13)
 - [Queue](#queue) (2)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
@@ -26,7 +26,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Hash Table](#hash-table) (21)
 - [Prefix Sum](#prefix-sum) (22)
 - [Bit Manipulation](#bit-manipulation) (11)
-- [Math](#math) (35)
+- [Math](#math) (36)
 - [Simulation](#simulation) (19)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (1)
@@ -38,6 +38,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Topological Sort](#topological-sort) (1)
 - [Depth-First Search](#depth-first-search) (1)
 - [Union-Find](#union-find) (1)
+- [Recursion](#recursion) (1)
 
 ## Dynamic Programming
 
@@ -291,6 +292,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 14. [REVERSE LINKED LIST](REVERSE%20LINKED%20LIST)
 15. [Sort List](Sort%20List)
 
+16. [Add Two Numbers](add-two-numbers/)
 ## Stack
 
 1. [Asteroid Collision](Asteroid%20Collision)
@@ -542,6 +544,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 34. [Arranging Coins](arranging-coins/)
 
 35. [Concatenate Non-Zero Digits and Multiply by Sum I](concatenate-non-zero-digits-and-multiply-by-sum-i/)
+36. [Add Two Numbers](add-two-numbers/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -620,3 +623,6 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Union-Find
 1. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
+
+## Recursion
+1. [Add Two Numbers](add-two-numbers/)
