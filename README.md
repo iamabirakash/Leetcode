@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (16)
+- [Array](#array) (17)
 - [String](#string) (1)
 - [Dynamic Programming](#dynamic-programming) (35)
 - [Graphs](#graphs) (8)
@@ -14,7 +14,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Strings](#strings) (43)
 - [Arrays](#arrays) (76)
 - [Linked List](#linked-list) (16)
-- [Stack](#stack) (14)
+- [Stack](#stack) (15)
 - [Queue](#queue) (2)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
@@ -26,7 +26,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Hash Table](#hash-table) (23)
 - [Prefix Sum](#prefix-sum) (22)
 - [Bit Manipulation](#bit-manipulation) (11)
-- [Math](#math) (36)
+- [Math](#math) (37)
 - [Simulation](#simulation) (20)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (1)
@@ -312,6 +312,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 13. [Valid Parenthesis String](Valid%20Parenthesis%20String)
 
 14. [Build an Array With Stack Operations](build-an-array-with-stack-operations/)
+15. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 ## Queue
 
 1. [Kth Largest Element in a Stream](Kth%20Largest%20Element%20in%20a%20Stream)
@@ -552,6 +553,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 35. [Concatenate Non-Zero Digits and Multiply by Sum I](concatenate-non-zero-digits-and-multiply-by-sum-i/)
 36. [Add Two Numbers](add-two-numbers/)
+37. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -599,6 +601,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 14. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 15. [Find All Numbers Disappeared in an Array](find-all-numbers-disappeared-in-an-array/)
 16. [Build an Array With Stack Operations](build-an-array-with-stack-operations/)
+17. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
