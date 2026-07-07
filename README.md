@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (15)
+- [Array](#array) (16)
 - [String](#string) (1)
 - [Dynamic Programming](#dynamic-programming) (35)
 - [Graphs](#graphs) (8)
@@ -14,7 +14,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Strings](#strings) (43)
 - [Arrays](#arrays) (76)
 - [Linked List](#linked-list) (16)
-- [Stack](#stack) (13)
+- [Stack](#stack) (14)
 - [Queue](#queue) (2)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
@@ -27,7 +27,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Prefix Sum](#prefix-sum) (22)
 - [Bit Manipulation](#bit-manipulation) (11)
 - [Math](#math) (36)
-- [Simulation](#simulation) (19)
+- [Simulation](#simulation) (20)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (1)
 - [Breadth-First Search](#breadth-first-search) (2)
@@ -311,6 +311,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 12. [Valid Parentheses](Valid%20Parentheses)
 13. [Valid Parenthesis String](Valid%20Parenthesis%20String)
 
+14. [Build an Array With Stack Operations](build-an-array-with-stack-operations/)
 ## Queue
 
 1. [Kth Largest Element in a Stream](Kth%20Largest%20Element%20in%20a%20Stream)
@@ -573,6 +574,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 18. [Spiral Matrix III](Spiral%20Matrix%20III)
 19. [Walking Robot Simulation](Walking%20Robot%20Simulation)
 
+20. [Build an Array With Stack Operations](build-an-array-with-stack-operations/)
 ## Database / SQL
 
 1. [Combine Two Tables](Combine_Two_Tables)
@@ -596,6 +598,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 13. [Median of Two Sorted Arrays](median-of-two-sorted-arrays/)
 14. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 15. [Find All Numbers Disappeared in an Array](find-all-numbers-disappeared-in-an-array/)
+16. [Build an Array With Stack Operations](build-an-array-with-stack-operations/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
