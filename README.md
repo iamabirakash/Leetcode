@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (14)
+- [Array](#array) (15)
 - [String](#string) (1)
 - [Dynamic Programming](#dynamic-programming) (35)
 - [Graphs](#graphs) (8)
@@ -23,7 +23,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Backtracking](#backtracking) (19)
 - [Greedy](#greedy) (16)
 - [Sorting](#sorting) (22)
-- [Hash Table](#hash-table) (22)
+- [Hash Table](#hash-table) (23)
 - [Prefix Sum](#prefix-sum) (22)
 - [Bit Manipulation](#bit-manipulation) (11)
 - [Math](#math) (36)
@@ -472,6 +472,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 20. [Check if All the Integers in a Range Are Covered](check-if-all-the-integers-in-a-range-are-covered/)
 21. [Points That Intersect With Cars](points-that-intersect-with-cars/)
 22. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
+23. [Find All Numbers Disappeared in an Array](find-all-numbers-disappeared-in-an-array/)
 ## Prefix Sum
 
 1. [binary-subarrays-with-sum](binary-subarrays-with-sum)
@@ -594,6 +595,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 12. [Remove Covered Intervals](remove-covered-intervals/)
 13. [Median of Two Sorted Arrays](median-of-two-sorted-arrays/)
 14. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
+15. [Find All Numbers Disappeared in an Array](find-all-numbers-disappeared-in-an-array/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
