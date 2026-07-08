@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (17)
+- [Array](#array) (18)
 - [String](#string) (2)
 - [Dynamic Programming](#dynamic-programming) (35)
 - [Graphs](#graphs) (8)
@@ -14,7 +14,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Strings](#strings) (43)
 - [Arrays](#arrays) (76)
 - [Linked List](#linked-list) (16)
-- [Stack](#stack) (15)
+- [Stack](#stack) (16)
 - [Queue](#queue) (2)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
@@ -313,6 +313,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 14. [Build an Array With Stack Operations](build-an-array-with-stack-operations/)
 15. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
+16. [Exclusive Time of Functions](exclusive-time-of-functions/)
 ## Queue
 
 1. [Kth Largest Element in a Stream](Kth%20Largest%20Element%20in%20a%20Stream)
@@ -604,6 +605,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 15. [Find All Numbers Disappeared in an Array](find-all-numbers-disappeared-in-an-array/)
 16. [Build an Array With Stack Operations](build-an-array-with-stack-operations/)
 17. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
+18. [Exclusive Time of Functions](exclusive-time-of-functions/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
