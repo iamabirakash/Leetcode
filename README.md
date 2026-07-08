@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (19)
+- [Array](#array) (20)
 - [String](#string) (2)
 - [Dynamic Programming](#dynamic-programming) (35)
 - [Graphs](#graphs) (8)
@@ -14,7 +14,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Strings](#strings) (43)
 - [Arrays](#arrays) (76)
 - [Linked List](#linked-list) (16)
-- [Stack](#stack) (17)
+- [Stack](#stack) (18)
 - [Queue](#queue) (2)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
@@ -41,7 +41,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Recursion](#recursion) (1)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Counting Sort](#counting-sort) (1)
-- [Monotonic Stack](#monotonic-stack) (1)
+- [Monotonic Stack](#monotonic-stack) (2)
 
 ## Dynamic Programming
 
@@ -316,6 +316,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 15. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 16. [Exclusive Time of Functions](exclusive-time-of-functions/)
 17. [Final Prices With a Special Discount in a Shop](final-prices-with-a-special-discount-in-a-shop/)
+18. [Daily Temperatures](daily-temperatures/)
 ## Queue
 
 1. [Kth Largest Element in a Stream](Kth%20Largest%20Element%20in%20a%20Stream)
@@ -609,6 +610,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 17. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 18. [Exclusive Time of Functions](exclusive-time-of-functions/)
 19. [Final Prices With a Special Discount in a Shop](final-prices-with-a-special-discount-in-a-shop/)
+20. [Daily Temperatures](daily-temperatures/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -658,3 +660,4 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Monotonic Stack
 1. [Final Prices With a Special Discount in a Shop](final-prices-with-a-special-discount-in-a-shop/)
+2. [Daily Temperatures](daily-temperatures/)
