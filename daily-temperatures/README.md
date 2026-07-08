@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/daily-temperatures/?utm=codolio">daily-temperatures</a></h2>
+<h2><a href="https://leetcode.com/problems/daily-temperatures/submissions/2060360422/?envType=problem-list-v2&envId=dsa-linear-shoal-monotonic-stack">daily-temperatures</a></h2>
 
 <p>Given an array of integers <code>temperatures</code> represents the daily temperatures, return <em>an array</em> <code>answer</code> <em>such that</em> <code>answer[i]</code> <em>is the number of days you have to wait after the</em> <code>i<sup>th</sup></code> <em>day to get a warmer temperature</em>. If there is no future day for which this is possible, keep <code>answer[i] == 0</code> instead.</p>
 
