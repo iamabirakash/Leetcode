@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (20)
+- [Array](#array) (21)
 - [String](#string) (2)
 - [Dynamic Programming](#dynamic-programming) (35)
 - [Graphs](#graphs) (8)
@@ -14,7 +14,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Strings](#strings) (43)
 - [Arrays](#arrays) (76)
 - [Linked List](#linked-list) (16)
-- [Stack](#stack) (18)
+- [Stack](#stack) (19)
 - [Queue](#queue) (2)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
@@ -41,7 +41,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Recursion](#recursion) (1)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Counting Sort](#counting-sort) (1)
-- [Monotonic Stack](#monotonic-stack) (2)
+- [Monotonic Stack](#monotonic-stack) (3)
 
 ## Dynamic Programming
 
@@ -317,6 +317,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 16. [Exclusive Time of Functions](exclusive-time-of-functions/)
 17. [Final Prices With a Special Discount in a Shop](final-prices-with-a-special-discount-in-a-shop/)
 18. [Daily Temperatures](daily-temperatures/)
+19. [Largest Rectangle in Histogram](largest-rectangle-in-histogram/)
 ## Queue
 
 1. [Kth Largest Element in a Stream](Kth%20Largest%20Element%20in%20a%20Stream)
@@ -611,6 +612,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 18. [Exclusive Time of Functions](exclusive-time-of-functions/)
 19. [Final Prices With a Special Discount in a Shop](final-prices-with-a-special-discount-in-a-shop/)
 20. [Daily Temperatures](daily-temperatures/)
+21. [Largest Rectangle in Histogram](largest-rectangle-in-histogram/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -661,3 +663,4 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Monotonic Stack
 1. [Final Prices With a Special Discount in a Shop](final-prices-with-a-special-discount-in-a-shop/)
 2. [Daily Temperatures](daily-temperatures/)
+3. [Largest Rectangle in Histogram](largest-rectangle-in-histogram/)
