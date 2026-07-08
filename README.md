@@ -6,7 +6,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Topics
 - [Array](#array) (21)
-- [String](#string) (2)
+- [String](#string) (3)
 - [Dynamic Programming](#dynamic-programming) (35)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
@@ -14,7 +14,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Strings](#strings) (43)
 - [Arrays](#arrays) (76)
 - [Linked List](#linked-list) (16)
-- [Stack](#stack) (19)
+- [Stack](#stack) (20)
 - [Queue](#queue) (2)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
@@ -27,7 +27,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Prefix Sum](#prefix-sum) (23)
 - [Bit Manipulation](#bit-manipulation) (11)
 - [Math](#math) (38)
-- [Simulation](#simulation) (20)
+- [Simulation](#simulation) (21)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (1)
 - [Breadth-First Search](#breadth-first-search) (2)
@@ -318,6 +318,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 17. [Final Prices With a Special Discount in a Shop](final-prices-with-a-special-discount-in-a-shop/)
 18. [Daily Temperatures](daily-temperatures/)
 19. [Largest Rectangle in Histogram](largest-rectangle-in-histogram/)
+20. [Clear Digits](clear-digits/)
 ## Queue
 
 1. [Kth Largest Element in a Stream](Kth%20Largest%20Element%20in%20a%20Stream)
@@ -584,6 +585,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 19. [Walking Robot Simulation](Walking%20Robot%20Simulation)
 
 20. [Build an Array With Stack Operations](build-an-array-with-stack-operations/)
+21. [Clear Digits](clear-digits/)
 ## Database / SQL
 
 1. [Combine Two Tables](Combine_Two_Tables)
@@ -618,6 +620,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
 
 2. [Concatenate Non-Zero Digits and Multiply by Sum II](concatenate-non-zero-digits-and-multiply-by-sum-ii/)
+3. [Clear Digits](clear-digits/)
 ## Enumeration
 1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 
