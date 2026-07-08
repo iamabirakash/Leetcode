@@ -6,7 +6,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Topics
 - [Array](#array) (17)
-- [String](#string) (1)
+- [String](#string) (2)
 - [Dynamic Programming](#dynamic-programming) (35)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
@@ -24,9 +24,9 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Greedy](#greedy) (16)
 - [Sorting](#sorting) (22)
 - [Hash Table](#hash-table) (23)
-- [Prefix Sum](#prefix-sum) (22)
+- [Prefix Sum](#prefix-sum) (23)
 - [Bit Manipulation](#bit-manipulation) (11)
-- [Math](#math) (37)
+- [Math](#math) (38)
 - [Simulation](#simulation) (20)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (1)
@@ -500,6 +500,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 20. [Find the Middle Index in Array](find-the-middle-index-in-array/)
 21. [Left and Right Sum Differences](left-and-right-sum-differences/)
 22. [Points That Intersect With Cars](points-that-intersect-with-cars/)
+23. [Concatenate Non-Zero Digits and Multiply by Sum II](concatenate-non-zero-digits-and-multiply-by-sum-ii/)
 ## Bit Manipulation
 
 1. [Count Number of Maximum Bitwise-OR Subsets](Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets)
@@ -554,6 +555,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 35. [Concatenate Non-Zero Digits and Multiply by Sum I](concatenate-non-zero-digits-and-multiply-by-sum-i/)
 36. [Add Two Numbers](add-two-numbers/)
 37. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
+38. [Concatenate Non-Zero Digits and Multiply by Sum II](concatenate-non-zero-digits-and-multiply-by-sum-ii/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -606,6 +608,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
 
+2. [Concatenate Non-Zero Digits and Multiply by Sum II](concatenate-non-zero-digits-and-multiply-by-sum-ii/)
 ## Enumeration
 1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 
