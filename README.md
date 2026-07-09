@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (23)
+- [Array](#array) (24)
 - [String](#string) (3)
 - [Dynamic Programming](#dynamic-programming) (35)
 - [Graphs](#graphs) (8)
@@ -30,10 +30,10 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Simulation](#simulation) (21)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (1)
-- [Breadth-First Search](#breadth-first-search) (3)
+- [Breadth-First Search](#breadth-first-search) (4)
 - [Graph Theory](#graph-theory) (4)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
-- [Matrix](#matrix) (2)
+- [Matrix](#matrix) (3)
 - [Shortest Path](#shortest-path) (2)
 - [Topological Sort](#topological-sort) (1)
 - [Depth-First Search](#depth-first-search) (2)
@@ -619,6 +619,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 21. [Largest Rectangle in Histogram](largest-rectangle-in-histogram/)
 22. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
 23. [Max Area of Island](max-area-of-island/)
+24. [Walls and Gates](walls-and-gates/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -634,6 +635,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 2. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
 3. [Max Area of Island](max-area-of-island/)
+4. [Walls and Gates](walls-and-gates/)
 ## Graph Theory
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
@@ -648,6 +650,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
 2. [Max Area of Island](max-area-of-island/)
+3. [Walls and Gates](walls-and-gates/)
 ## Shortest Path
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
