@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (21)
+- [Array](#array) (22)
 - [String](#string) (3)
 - [Dynamic Programming](#dynamic-programming) (35)
 - [Graphs](#graphs) (8)
@@ -19,11 +19,11 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
 - [Two Pointers](#two-pointers) (12)
-- [Binary Search](#binary-search) (14)
+- [Binary Search](#binary-search) (15)
 - [Backtracking](#backtracking) (19)
 - [Greedy](#greedy) (16)
 - [Sorting](#sorting) (22)
-- [Hash Table](#hash-table) (23)
+- [Hash Table](#hash-table) (24)
 - [Prefix Sum](#prefix-sum) (23)
 - [Bit Manipulation](#bit-manipulation) (11)
 - [Math](#math) (38)
@@ -31,13 +31,13 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (1)
 - [Breadth-First Search](#breadth-first-search) (2)
-- [Graph Theory](#graph-theory) (3)
+- [Graph Theory](#graph-theory) (4)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Matrix](#matrix) (1)
 - [Shortest Path](#shortest-path) (2)
 - [Topological Sort](#topological-sort) (1)
 - [Depth-First Search](#depth-first-search) (1)
-- [Union-Find](#union-find) (1)
+- [Union-Find](#union-find) (2)
 - [Recursion](#recursion) (1)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Counting Sort](#counting-sort) (1)
@@ -389,6 +389,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 12. [Capacity To Ship Packages Within D Days](capacity-to-ship-packages-within-d-days/)
 13. [Network Recovery Pathways](network-recovery-pathways/)
 14. [Median of Two Sorted Arrays](median-of-two-sorted-arrays/)
+15. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
 ## Backtracking
 
 1. [Combination Sum](Combination%20Sum)
@@ -481,6 +482,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 21. [Points That Intersect With Cars](points-that-intersect-with-cars/)
 22. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 23. [Find All Numbers Disappeared in an Array](find-all-numbers-disappeared-in-an-array/)
+24. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
 ## Prefix Sum
 
 1. [binary-subarrays-with-sum](binary-subarrays-with-sum)
@@ -615,6 +617,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 19. [Final Prices With a Special Discount in a Shop](final-prices-with-a-special-discount-in-a-shop/)
 20. [Daily Temperatures](daily-temperatures/)
 21. [Largest Rectangle in Histogram](largest-rectangle-in-histogram/)
+22. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -634,6 +637,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 2. [Network Recovery Pathways](network-recovery-pathways/)
 3. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
+4. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
 ## Heap (Priority Queue)
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
@@ -654,6 +658,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Union-Find
 1. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
 
+2. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
 ## Recursion
 1. [Add Two Numbers](add-two-numbers/)
 
