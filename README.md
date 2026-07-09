@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (22)
+- [Array](#array) (23)
 - [String](#string) (3)
 - [Dynamic Programming](#dynamic-programming) (35)
 - [Graphs](#graphs) (8)
@@ -30,14 +30,14 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Simulation](#simulation) (21)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (1)
-- [Breadth-First Search](#breadth-first-search) (2)
+- [Breadth-First Search](#breadth-first-search) (3)
 - [Graph Theory](#graph-theory) (4)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
-- [Matrix](#matrix) (1)
+- [Matrix](#matrix) (2)
 - [Shortest Path](#shortest-path) (2)
 - [Topological Sort](#topological-sort) (1)
-- [Depth-First Search](#depth-first-search) (1)
-- [Union-Find](#union-find) (2)
+- [Depth-First Search](#depth-first-search) (2)
+- [Union-Find](#union-find) (3)
 - [Recursion](#recursion) (1)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Counting Sort](#counting-sort) (1)
@@ -618,6 +618,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 20. [Daily Temperatures](daily-temperatures/)
 21. [Largest Rectangle in Histogram](largest-rectangle-in-histogram/)
 22. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
+23. [Max Area of Island](max-area-of-island/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -632,6 +633,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
 2. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
+3. [Max Area of Island](max-area-of-island/)
 ## Graph Theory
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
@@ -645,6 +647,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Matrix
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
+2. [Max Area of Island](max-area-of-island/)
 ## Shortest Path
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
@@ -655,10 +658,12 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Depth-First Search
 1. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
 
+2. [Max Area of Island](max-area-of-island/)
 ## Union-Find
 1. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
 
 2. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
+3. [Max Area of Island](max-area-of-island/)
 ## Recursion
 1. [Add Two Numbers](add-two-numbers/)
 
