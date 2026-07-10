@@ -30,14 +30,14 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Simulation](#simulation) (21)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (1)
-- [Breadth-First Search](#breadth-first-search) (6)
-- [Graph Theory](#graph-theory) (7)
+- [Breadth-First Search](#breadth-first-search) (7)
+- [Graph Theory](#graph-theory) (8)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Matrix](#matrix) (3)
 - [Shortest Path](#shortest-path) (2)
 - [Topological Sort](#topological-sort) (3)
-- [Depth-First Search](#depth-first-search) (4)
-- [Union-Find](#union-find) (3)
+- [Depth-First Search](#depth-first-search) (5)
+- [Union-Find](#union-find) (4)
 - [Recursion](#recursion) (1)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Counting Sort](#counting-sort) (1)
@@ -645,6 +645,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 4. [Walls and Gates](walls-and-gates/)
 5. [Course Schedule](course-schedule/)
 6. [Course Schedule II](course-schedule-ii/)
+7. [Graph Valid Tree](graph-valid-tree/)
 ## Graph Theory
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
@@ -654,6 +655,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 5. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 6. [Course Schedule](course-schedule/)
 7. [Course Schedule II](course-schedule-ii/)
+8. [Graph Valid Tree](graph-valid-tree/)
 ## Heap (Priority Queue)
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
@@ -678,11 +680,13 @@ A topic-wise index of the solution folders in this repository. Some problems app
 2. [Max Area of Island](max-area-of-island/)
 3. [Course Schedule](course-schedule/)
 4. [Course Schedule II](course-schedule-ii/)
+5. [Graph Valid Tree](graph-valid-tree/)
 ## Union-Find
 1. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
 
 2. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
 3. [Max Area of Island](max-area-of-island/)
+4. [Graph Valid Tree](graph-valid-tree/)
 ## Recursion
 1. [Add Two Numbers](add-two-numbers/)
 
