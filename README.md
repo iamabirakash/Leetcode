@@ -5,9 +5,9 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (24)
+- [Array](#array) (25)
 - [String](#string) (3)
-- [Dynamic Programming](#dynamic-programming) (35)
+- [Dynamic Programming](#dynamic-programming) (36)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
 - [Matrix & Grid](#matrix-grid) (22)
@@ -18,20 +18,20 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Queue](#queue) (2)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
-- [Two Pointers](#two-pointers) (12)
-- [Binary Search](#binary-search) (15)
+- [Two Pointers](#two-pointers) (13)
+- [Binary Search](#binary-search) (16)
 - [Backtracking](#backtracking) (19)
-- [Greedy](#greedy) (16)
-- [Sorting](#sorting) (22)
+- [Greedy](#greedy) (17)
+- [Sorting](#sorting) (23)
 - [Hash Table](#hash-table) (24)
 - [Prefix Sum](#prefix-sum) (23)
-- [Bit Manipulation](#bit-manipulation) (11)
+- [Bit Manipulation](#bit-manipulation) (12)
 - [Math](#math) (38)
 - [Simulation](#simulation) (21)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (1)
 - [Breadth-First Search](#breadth-first-search) (4)
-- [Graph Theory](#graph-theory) (4)
+- [Graph Theory](#graph-theory) (5)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Matrix](#matrix) (3)
 - [Shortest Path](#shortest-path) (2)
@@ -81,6 +81,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 34. [Ways to Express an Integer as Sum of Powers](Ways%20to%20Express%20an%20Integer%20as%20Sum%20of%20Powers)
 
 35. [Network Recovery Pathways](network-recovery-pathways/)
+36. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 ## Graphs
 
 1. [check-if-there-is-a-valid-path-in-a-grid](check-if-there-is-a-valid-path-in-a-grid)
@@ -372,6 +373,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 11. [Sort Vowels in a String](Sort%20Vowels%20in%20a%20String)
 12. [Two Sum](Two%20Sum)
 
+13. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 ## Binary Search
 
 1. [binary-search](binary-search)
@@ -390,6 +392,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 13. [Network Recovery Pathways](network-recovery-pathways/)
 14. [Median of Two Sorted Arrays](median-of-two-sorted-arrays/)
 15. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
+16. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 ## Backtracking
 
 1. [Combination Sum](Combination%20Sum)
@@ -431,6 +434,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 15. [Remove Colored Pieces if Both Neighbors are the Same Color](Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color)
 16. [Valid Parenthesis String](Valid%20Parenthesis%20String)
 
+17. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 ## Sorting
 
 1. [convert-sorted-array-to-binary-search-tree](convert-sorted-array-to-binary-search-tree)
@@ -456,6 +460,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 20. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 21. [Remove Covered Intervals](remove-covered-intervals/)
 22. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
+23. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 ## Hash Table
 
 1. [closest-equal-element-queries](closest-equal-element-queries)
@@ -523,6 +528,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 10. [sum-of-all-subset-xor-totals](sum-of-all-subset-xor-totals)
 11. [xor-after-range-multiplication-queries-i](xor-after-range-multiplication-queries-i)
 
+12. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 ## Math
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -620,6 +626,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 22. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
 23. [Max Area of Island](max-area-of-island/)
 24. [Walls and Gates](walls-and-gates/)
+25. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -642,6 +649,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 2. [Network Recovery Pathways](network-recovery-pathways/)
 3. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
 4. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
+5. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 ## Heap (Priority Queue)
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
