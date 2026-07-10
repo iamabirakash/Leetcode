@@ -30,13 +30,13 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Simulation](#simulation) (21)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (1)
-- [Breadth-First Search](#breadth-first-search) (4)
-- [Graph Theory](#graph-theory) (5)
+- [Breadth-First Search](#breadth-first-search) (5)
+- [Graph Theory](#graph-theory) (6)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Matrix](#matrix) (3)
 - [Shortest Path](#shortest-path) (2)
-- [Topological Sort](#topological-sort) (1)
-- [Depth-First Search](#depth-first-search) (2)
+- [Topological Sort](#topological-sort) (2)
+- [Depth-First Search](#depth-first-search) (3)
 - [Union-Find](#union-find) (3)
 - [Recursion](#recursion) (1)
 - [Divide and Conquer](#divide-and-conquer) (1)
@@ -643,6 +643,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 2. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
 3. [Max Area of Island](max-area-of-island/)
 4. [Walls and Gates](walls-and-gates/)
+5. [Course Schedule](course-schedule/)
 ## Graph Theory
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
@@ -650,6 +651,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 3. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
 4. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
 5. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
+6. [Course Schedule](course-schedule/)
 ## Heap (Priority Queue)
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
@@ -666,10 +668,12 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Topological Sort
 1. [Network Recovery Pathways](network-recovery-pathways/)
 
+2. [Course Schedule](course-schedule/)
 ## Depth-First Search
 1. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
 
 2. [Max Area of Island](max-area-of-island/)
+3. [Course Schedule](course-schedule/)
 ## Union-Find
 1. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
 
