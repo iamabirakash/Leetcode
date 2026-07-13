@@ -29,7 +29,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Math](#math) (38)
 - [Simulation](#simulation) (21)
 - [Database / SQL](#database-sql) (1)
-- [Enumeration](#enumeration) (1)
+- [Enumeration](#enumeration) (2)
 - [Breadth-First Search](#breadth-first-search) (8)
 - [Graph Theory](#graph-theory) (9)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
@@ -637,6 +637,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 
 
+2. [Sequential Digits](sequential-digits/)
 ## Breadth-First Search
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
