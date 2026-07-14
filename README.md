@@ -43,7 +43,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Counting Sort](#counting-sort) (1)
 - [Monotonic Stack](#monotonic-stack) (3)
 - [Number Theory](#number-theory) (1)
-- [Database](#database) (9)
+- [Database](#database) (10)
 
 ## Dynamic Programming
 
@@ -724,3 +724,4 @@ A topic-wise index of the solution folders in this repository. Some problems app
 7. [Monthly Transactions I](monthly-transactions-i/)
 8. [User Activity for the Past 30 Days I](user-activity-for-the-past-30-days-i/)
 9. [Students and Examinations](students-and-examinations/)
+10. [Customers Who Bought All Products](customers-who-bought-all-products/)
