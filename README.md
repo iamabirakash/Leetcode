@@ -43,7 +43,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Counting Sort](#counting-sort) (1)
 - [Monotonic Stack](#monotonic-stack) (3)
 - [Number Theory](#number-theory) (1)
-- [Database](#database) (1)
+- [Database](#database) (2)
 
 ## Dynamic Programming
 
@@ -716,3 +716,4 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Database
 1. [Combine Two Tables](combine-two-tables/)
+2. [Employees Earning More Than Their Managers](employees-earning-more-than-their-managers/)
