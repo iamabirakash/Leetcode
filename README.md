@@ -43,7 +43,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Counting Sort](#counting-sort) (1)
 - [Monotonic Stack](#monotonic-stack) (3)
 - [Number Theory](#number-theory) (1)
-- [Database](#database) (11)
+- [Database](#database) (12)
 
 ## Dynamic Programming
 
@@ -726,3 +726,4 @@ A topic-wise index of the solution folders in this repository. Some problems app
 9. [Students and Examinations](students-and-examinations/)
 10. [Customers Who Bought All Products](customers-who-bought-all-products/)
 11. [Tree Node](tree-node/)
+12. [Movie Rating](movie-rating/)
