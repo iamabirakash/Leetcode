@@ -5,9 +5,9 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (25)
+- [Array](#array) (26)
 - [String](#string) (3)
-- [Dynamic Programming](#dynamic-programming) (36)
+- [Dynamic Programming](#dynamic-programming) (37)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
 - [Matrix & Grid](#matrix-grid) (22)
@@ -26,7 +26,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Hash Table](#hash-table) (24)
 - [Prefix Sum](#prefix-sum) (23)
 - [Bit Manipulation](#bit-manipulation) (12)
-- [Math](#math) (38)
+- [Math](#math) (39)
 - [Simulation](#simulation) (21)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (2)
@@ -42,6 +42,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Counting Sort](#counting-sort) (1)
 - [Monotonic Stack](#monotonic-stack) (3)
+- [Number Theory](#number-theory) (1)
 
 ## Dynamic Programming
 
@@ -82,6 +83,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 35. [Network Recovery Pathways](network-recovery-pathways/)
 36. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
+37. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
 ## Graphs
 
 1. [check-if-there-is-a-valid-path-in-a-grid](check-if-there-is-a-valid-path-in-a-grid)
@@ -570,6 +572,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 36. [Add Two Numbers](add-two-numbers/)
 37. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 38. [Concatenate Non-Zero Digits and Multiply by Sum II](concatenate-non-zero-digits-and-multiply-by-sum-ii/)
+39. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -627,6 +630,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 23. [Max Area of Island](max-area-of-island/)
 24. [Walls and Gates](walls-and-gates/)
 25. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
+26. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -705,3 +709,6 @@ A topic-wise index of the solution folders in this repository. Some problems app
 1. [Final Prices With a Special Discount in a Shop](final-prices-with-a-special-discount-in-a-shop/)
 2. [Daily Temperatures](daily-temperatures/)
 3. [Largest Rectangle in Histogram](largest-rectangle-in-histogram/)
+
+## Number Theory
+1. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
