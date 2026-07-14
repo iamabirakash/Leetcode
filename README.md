@@ -43,6 +43,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Counting Sort](#counting-sort) (1)
 - [Monotonic Stack](#monotonic-stack) (3)
 - [Number Theory](#number-theory) (1)
+- [Database](#database) (1)
 
 ## Dynamic Programming
 
@@ -712,3 +713,6 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Number Theory
 1. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
+
+## Database
+1. [Combine Two Tables](combine-two-tables/)
