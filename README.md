@@ -43,7 +43,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Counting Sort](#counting-sort) (1)
 - [Monotonic Stack](#monotonic-stack) (3)
 - [Number Theory](#number-theory) (1)
-- [Database](#database) (6)
+- [Database](#database) (7)
 
 ## Dynamic Programming
 
@@ -721,3 +721,4 @@ A topic-wise index of the solution folders in this repository. Some problems app
 4. [Find Customer Referee](find-customer-referee/)
 5. [Customer Placing the Largest Number of Orders](customer-placing-the-largest-number-of-orders/)
 6. [Classes With at Least 5 Students](classes-with-at-least-5-students/)
+7. [Monthly Transactions I](monthly-transactions-i/)
