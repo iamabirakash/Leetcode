@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (26)
+- [Array](#array) (27)
 - [String](#string) (4)
 - [Dynamic Programming](#dynamic-programming) (37)
 - [Graphs](#graphs) (8)
@@ -20,7 +20,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Sliding Window](#sliding-window) (23)
 - [Two Pointers](#two-pointers) (13)
 - [Binary Search](#binary-search) (16)
-- [Backtracking](#backtracking) (19)
+- [Backtracking](#backtracking) (20)
 - [Greedy](#greedy) (17)
 - [Sorting](#sorting) (23)
 - [Hash Table](#hash-table) (25)
@@ -418,6 +418,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 18. [subsets-ii](subsets-ii)
 19. [word-search](word-search)
 
+20. [Permutations](permutations/)
 ## Greedy
 
 1. [Assign Cookies](Assign%20Cookies)
@@ -634,6 +635,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 24. [Walls and Gates](walls-and-gates/)
 25. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 26. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
+27. [Permutations](permutations/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
