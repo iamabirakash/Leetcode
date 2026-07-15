@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/permutations/submissions/2037067648/">permutations</a></h2>
+<h2><a href="https://leetcode.com/problems/permutations/">permutations</a></h2>
 
 <p>Given an array <code>nums</code> of distinct integers, return all the possible <span data-keyword="permutation-array">permutations</span>. You can return the answer in <strong>any order</strong>.</p>
 
