@@ -6,7 +6,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Topics
 - [Array](#array) (26)
-- [String](#string) (3)
+- [String](#string) (4)
 - [Dynamic Programming](#dynamic-programming) (37)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
@@ -23,14 +23,14 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Backtracking](#backtracking) (19)
 - [Greedy](#greedy) (17)
 - [Sorting](#sorting) (23)
-- [Hash Table](#hash-table) (24)
+- [Hash Table](#hash-table) (25)
 - [Prefix Sum](#prefix-sum) (23)
 - [Bit Manipulation](#bit-manipulation) (12)
 - [Math](#math) (40)
 - [Simulation](#simulation) (21)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (2)
-- [Breadth-First Search](#breadth-first-search) (8)
+- [Breadth-First Search](#breadth-first-search) (9)
 - [Graph Theory](#graph-theory) (9)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Matrix](#matrix) (3)
@@ -491,6 +491,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 22. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 23. [Find All Numbers Disappeared in an Array](find-all-numbers-disappeared-in-an-array/)
 24. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
+25. [Word Ladder](word-ladder/)
 ## Prefix Sum
 
 1. [binary-subarrays-with-sum](binary-subarrays-with-sum)
@@ -639,6 +640,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 2. [Concatenate Non-Zero Digits and Multiply by Sum II](concatenate-non-zero-digits-and-multiply-by-sum-ii/)
 3. [Clear Digits](clear-digits/)
+4. [Word Ladder](word-ladder/)
 ## Enumeration
 1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 
@@ -654,6 +656,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 6. [Course Schedule II](course-schedule-ii/)
 7. [Graph Valid Tree](graph-valid-tree/)
 8. [Count the Number of Complete Components](count-the-number-of-complete-components/)
+9. [Word Ladder](word-ladder/)
 ## Graph Theory
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
