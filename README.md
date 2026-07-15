@@ -26,7 +26,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Hash Table](#hash-table) (24)
 - [Prefix Sum](#prefix-sum) (23)
 - [Bit Manipulation](#bit-manipulation) (12)
-- [Math](#math) (39)
+- [Math](#math) (40)
 - [Simulation](#simulation) (21)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (2)
@@ -42,7 +42,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Counting Sort](#counting-sort) (1)
 - [Monotonic Stack](#monotonic-stack) (3)
-- [Number Theory](#number-theory) (1)
+- [Number Theory](#number-theory) (2)
 - [Database](#database) (12)
 
 ## Dynamic Programming
@@ -574,6 +574,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 37. [Evaluate Reverse Polish Notation](evaluate-reverse-polish-notation/)
 38. [Concatenate Non-Zero Digits and Multiply by Sum II](concatenate-non-zero-digits-and-multiply-by-sum-ii/)
 39. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
+40. [GCD of Odd and Even Sums](gcd-of-odd-and-even-sums/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -714,6 +715,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Number Theory
 1. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
 
+2. [GCD of Odd and Even Sums](gcd-of-odd-and-even-sums/)
 ## Database
 1. [Combine Two Tables](combine-two-tables/)
 2. [Employees Earning More Than Their Managers](employees-earning-more-than-their-managers/)
