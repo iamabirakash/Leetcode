@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (31)
+- [Array](#array) (32)
 - [String](#string) (4)
 - [Dynamic Programming](#dynamic-programming) (37)
 - [Graphs](#graphs) (8)
@@ -18,7 +18,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Queue](#queue) (5)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
-- [Two Pointers](#two-pointers) (14)
+- [Two Pointers](#two-pointers) (15)
 - [Binary Search](#binary-search) (16)
 - [Backtracking](#backtracking) (20)
 - [Greedy](#greedy) (17)
@@ -384,6 +384,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 13. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 14. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
+15. [Remove Duplicates from Sorted Array II](remove-duplicates-from-sorted-array-ii/)
 ## Binary Search
 
 1. [binary-search](binary-search)
@@ -652,6 +653,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 29. [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/)
 30. [Time Needed to Buy Tickets](time-needed-to-buy-tickets/)
 31. [Last Stone Weight](last-stone-weight/)
+32. [Remove Duplicates from Sorted Array II](remove-duplicates-from-sorted-array-ii/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
