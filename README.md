@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (28)
+- [Array](#array) (29)
 - [String](#string) (4)
 - [Dynamic Programming](#dynamic-programming) (37)
 - [Graphs](#graphs) (8)
@@ -14,8 +14,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Strings](#strings) (43)
 - [Arrays](#arrays) (76)
 - [Linked List](#linked-list) (16)
-- [Stack](#stack) (20)
-- [Queue](#queue) (2)
+- [Stack](#stack) (21)
+- [Queue](#queue) (3)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
 - [Two Pointers](#two-pointers) (14)
@@ -27,7 +27,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Prefix Sum](#prefix-sum) (23)
 - [Bit Manipulation](#bit-manipulation) (12)
 - [Math](#math) (41)
-- [Simulation](#simulation) (22)
+- [Simulation](#simulation) (23)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (2)
 - [Breadth-First Search](#breadth-first-search) (9)
@@ -323,11 +323,13 @@ A topic-wise index of the solution folders in this repository. Some problems app
 18. [Daily Temperatures](daily-temperatures/)
 19. [Largest Rectangle in Histogram](largest-rectangle-in-histogram/)
 20. [Clear Digits](clear-digits/)
+21. [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/)
 ## Queue
 
 1. [Kth Largest Element in a Stream](Kth%20Largest%20Element%20in%20a%20Stream)
 2. [rotting-oranges](rotting-oranges)
 
+3. [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/)
 ## Heap / Priority Queue
 
 1. [Kth Largest Element in a Stream](Kth%20Largest%20Element%20in%20a%20Stream)
@@ -605,6 +607,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 20. [Build an Array With Stack Operations](build-an-array-with-stack-operations/)
 21. [Clear Digits](clear-digits/)
 22. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
+23. [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/)
 ## Database / SQL
 
 1. [Combine Two Tables](Combine_Two_Tables)
@@ -641,6 +644,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 26. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
 27. [Permutations](permutations/)
 28. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
+29. [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
