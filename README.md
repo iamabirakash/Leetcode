@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (29)
+- [Array](#array) (30)
 - [String](#string) (4)
 - [Dynamic Programming](#dynamic-programming) (37)
 - [Graphs](#graphs) (8)
@@ -15,7 +15,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Arrays](#arrays) (76)
 - [Linked List](#linked-list) (16)
 - [Stack](#stack) (21)
-- [Queue](#queue) (3)
+- [Queue](#queue) (4)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
 - [Two Pointers](#two-pointers) (14)
@@ -27,7 +27,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Prefix Sum](#prefix-sum) (23)
 - [Bit Manipulation](#bit-manipulation) (12)
 - [Math](#math) (41)
-- [Simulation](#simulation) (23)
+- [Simulation](#simulation) (24)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (2)
 - [Breadth-First Search](#breadth-first-search) (9)
@@ -330,6 +330,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 2. [rotting-oranges](rotting-oranges)
 
 3. [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/)
+4. [Time Needed to Buy Tickets](time-needed-to-buy-tickets/)
 ## Heap / Priority Queue
 
 1. [Kth Largest Element in a Stream](Kth%20Largest%20Element%20in%20a%20Stream)
@@ -608,6 +609,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 21. [Clear Digits](clear-digits/)
 22. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 23. [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/)
+24. [Time Needed to Buy Tickets](time-needed-to-buy-tickets/)
 ## Database / SQL
 
 1. [Combine Two Tables](Combine_Two_Tables)
@@ -645,6 +647,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 27. [Permutations](permutations/)
 28. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 29. [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/)
+30. [Time Needed to Buy Tickets](time-needed-to-buy-tickets/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
