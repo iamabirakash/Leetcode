@@ -14,8 +14,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Strings](#strings) (43)
 - [Arrays](#arrays) (76)
 - [Linked List](#linked-list) (16)
-- [Stack](#stack) (21)
-- [Queue](#queue) (4)
+- [Stack](#stack) (22)
+- [Queue](#queue) (5)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
 - [Two Pointers](#two-pointers) (14)
@@ -44,6 +44,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Monotonic Stack](#monotonic-stack) (3)
 - [Number Theory](#number-theory) (3)
 - [Database](#database) (12)
+- [Design](#design) (1)
 
 ## Dynamic Programming
 
@@ -324,6 +325,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 19. [Largest Rectangle in Histogram](largest-rectangle-in-histogram/)
 20. [Clear Digits](clear-digits/)
 21. [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/)
+22. [Implement Queue using Stacks](implement-queue-using-stacks/)
 ## Queue
 
 1. [Kth Largest Element in a Stream](Kth%20Largest%20Element%20in%20a%20Stream)
@@ -331,6 +333,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 3. [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/)
 4. [Time Needed to Buy Tickets](time-needed-to-buy-tickets/)
+5. [Implement Queue using Stacks](implement-queue-using-stacks/)
 ## Heap / Priority Queue
 
 1. [Kth Largest Element in a Stream](Kth%20Largest%20Element%20in%20a%20Stream)
@@ -747,3 +750,6 @@ A topic-wise index of the solution folders in this repository. Some problems app
 10. [Customers Who Bought All Products](customers-who-bought-all-products/)
 11. [Tree Node](tree-node/)
 12. [Movie Rating](movie-rating/)
+
+## Design
+1. [Implement Queue using Stacks](implement-queue-using-stacks/)
