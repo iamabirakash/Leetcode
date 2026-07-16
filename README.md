@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (27)
+- [Array](#array) (28)
 - [String](#string) (4)
 - [Dynamic Programming](#dynamic-programming) (37)
 - [Graphs](#graphs) (8)
@@ -18,16 +18,16 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Queue](#queue) (2)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
-- [Two Pointers](#two-pointers) (13)
+- [Two Pointers](#two-pointers) (14)
 - [Binary Search](#binary-search) (16)
 - [Backtracking](#backtracking) (20)
 - [Greedy](#greedy) (17)
-- [Sorting](#sorting) (23)
+- [Sorting](#sorting) (24)
 - [Hash Table](#hash-table) (25)
 - [Prefix Sum](#prefix-sum) (23)
 - [Bit Manipulation](#bit-manipulation) (12)
-- [Math](#math) (40)
-- [Simulation](#simulation) (21)
+- [Math](#math) (41)
+- [Simulation](#simulation) (22)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (2)
 - [Breadth-First Search](#breadth-first-search) (9)
@@ -42,7 +42,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Counting Sort](#counting-sort) (1)
 - [Monotonic Stack](#monotonic-stack) (3)
-- [Number Theory](#number-theory) (2)
+- [Number Theory](#number-theory) (3)
 - [Database](#database) (12)
 
 ## Dynamic Programming
@@ -377,6 +377,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 12. [Two Sum](Two%20Sum)
 
 13. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
+14. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 ## Binary Search
 
 1. [binary-search](binary-search)
@@ -465,6 +466,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 21. [Remove Covered Intervals](remove-covered-intervals/)
 22. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 23. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
+24. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 ## Hash Table
 
 1. [closest-equal-element-queries](closest-equal-element-queries)
@@ -577,6 +579,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 38. [Concatenate Non-Zero Digits and Multiply by Sum II](concatenate-non-zero-digits-and-multiply-by-sum-ii/)
 39. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
 40. [GCD of Odd and Even Sums](gcd-of-odd-and-even-sums/)
+41. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -601,6 +604,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 20. [Build an Array With Stack Operations](build-an-array-with-stack-operations/)
 21. [Clear Digits](clear-digits/)
+22. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 ## Database / SQL
 
 1. [Combine Two Tables](Combine_Two_Tables)
@@ -636,6 +640,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 25. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 26. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
 27. [Permutations](permutations/)
+28. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -721,6 +726,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 1. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
 
 2. [GCD of Odd and Even Sums](gcd-of-odd-and-even-sums/)
+3. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 ## Database
 1. [Combine Two Tables](combine-two-tables/)
 2. [Employees Earning More Than Their Managers](employees-earning-more-than-their-managers/)
