@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (32)
+- [Array](#array) (33)
 - [String](#string) (4)
 - [Dynamic Programming](#dynamic-programming) (37)
 - [Graphs](#graphs) (8)
@@ -19,14 +19,14 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
 - [Two Pointers](#two-pointers) (15)
-- [Binary Search](#binary-search) (16)
+- [Binary Search](#binary-search) (17)
 - [Backtracking](#backtracking) (20)
 - [Greedy](#greedy) (17)
 - [Sorting](#sorting) (24)
-- [Hash Table](#hash-table) (25)
-- [Prefix Sum](#prefix-sum) (23)
+- [Hash Table](#hash-table) (26)
+- [Prefix Sum](#prefix-sum) (24)
 - [Bit Manipulation](#bit-manipulation) (12)
-- [Math](#math) (41)
+- [Math](#math) (42)
 - [Simulation](#simulation) (24)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (2)
@@ -42,9 +42,11 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Counting Sort](#counting-sort) (1)
 - [Monotonic Stack](#monotonic-stack) (3)
-- [Number Theory](#number-theory) (3)
+- [Number Theory](#number-theory) (4)
 - [Database](#database) (12)
 - [Design](#design) (1)
+- [Combinatorics](#combinatorics) (1)
+- [Counting](#counting) (1)
 
 ## Dynamic Programming
 
@@ -404,6 +406,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 14. [Median of Two Sorted Arrays](median-of-two-sorted-arrays/)
 15. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
 16. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
+17. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 ## Backtracking
 
 1. [Combination Sum](Combination%20Sum)
@@ -502,6 +505,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 23. [Find All Numbers Disappeared in an Array](find-all-numbers-disappeared-in-an-array/)
 24. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
 25. [Word Ladder](word-ladder/)
+26. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 ## Prefix Sum
 
 1. [binary-subarrays-with-sum](binary-subarrays-with-sum)
@@ -528,6 +532,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 21. [Left and Right Sum Differences](left-and-right-sum-differences/)
 22. [Points That Intersect With Cars](points-that-intersect-with-cars/)
 23. [Concatenate Non-Zero Digits and Multiply by Sum II](concatenate-non-zero-digits-and-multiply-by-sum-ii/)
+24. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 ## Bit Manipulation
 
 1. [Count Number of Maximum Bitwise-OR Subsets](Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets)
@@ -587,6 +592,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 39. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
 40. [GCD of Odd and Even Sums](gcd-of-odd-and-even-sums/)
 41. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
+42. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -654,6 +660,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 30. [Time Needed to Buy Tickets](time-needed-to-buy-tickets/)
 31. [Last Stone Weight](last-stone-weight/)
 32. [Remove Duplicates from Sorted Array II](remove-duplicates-from-sorted-array-ii/)
+33. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -741,6 +748,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 2. [GCD of Odd and Even Sums](gcd-of-odd-and-even-sums/)
 3. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
+4. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 ## Database
 1. [Combine Two Tables](combine-two-tables/)
 2. [Employees Earning More Than Their Managers](employees-earning-more-than-their-managers/)
@@ -757,3 +765,9 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Design
 1. [Implement Queue using Stacks](implement-queue-using-stacks/)
+
+## Combinatorics
+1. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
+
+## Counting
+1. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
