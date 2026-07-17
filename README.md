@@ -6,7 +6,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Topics
 - [Array](#array) (35)
-- [String](#string) (5)
+- [String](#string) (6)
 - [Dynamic Programming](#dynamic-programming) (37)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
@@ -671,6 +671,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 3. [Clear Digits](clear-digits/)
 4. [Word Ladder](word-ladder/)
 5. [Detect Capital](detect-capital/)
+6. [License Key Formatting](license-key-formatting/)
 ## Enumeration
 1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 
