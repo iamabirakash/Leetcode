@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (35)
+- [Array](#array) (36)
 - [String](#string) (10)
 - [Dynamic Programming](#dynamic-programming) (37)
 - [Graphs](#graphs) (8)
@@ -23,7 +23,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Backtracking](#backtracking) (20)
 - [Greedy](#greedy) (17)
 - [Sorting](#sorting) (24)
-- [Hash Table](#hash-table) (26)
+- [Hash Table](#hash-table) (27)
 - [Prefix Sum](#prefix-sum) (24)
 - [Bit Manipulation](#bit-manipulation) (12)
 - [Math](#math) (42)
@@ -508,6 +508,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 24. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
 25. [Word Ladder](word-ladder/)
 26. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
+27. [First Missing Positive](first-missing-positive/)
 ## Prefix Sum
 
 1. [binary-subarrays-with-sum](binary-subarrays-with-sum)
@@ -665,6 +666,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 33. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 34. [Find K Pairs with Smallest Sums](find-k-pairs-with-smallest-sums/)
 35. [Construct Target Array With Multiple Sums](construct-target-array-with-multiple-sums/)
+36. [First Missing Positive](first-missing-positive/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
