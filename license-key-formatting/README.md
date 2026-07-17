@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/license-key-formatting/submissions/2070910872/?envType=problem-list-v2&envId=dsa-sequence-valley-string">license-key-formatting</a></h2>
+<h2><a href="leetcode.com/problems/license-key-formatting/?envType=problem-list-v2&envId=dsa-sequence-valley-string">license-key-formatting</a></h2>
 
 <p>You are given a license key represented as a string <code>s</code> that consists of only alphanumeric characters and dashes. The string is separated into <code>n + 1</code> groups by <code>n</code> dashes. You are also given an integer <code>k</code>.</p>
 
