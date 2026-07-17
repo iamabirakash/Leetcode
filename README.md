@@ -13,7 +13,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Matrix & Grid](#matrix-grid) (22)
 - [Strings](#strings) (43)
 - [Arrays](#arrays) (76)
-- [Linked List](#linked-list) (16)
+- [Linked List](#linked-list) (17)
 - [Stack](#stack) (22)
 - [Queue](#queue) (5)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
@@ -304,6 +304,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 15. [Sort List](Sort%20List)
 
 16. [Add Two Numbers](add-two-numbers/)
+17. [Remove Duplicates from Sorted List](remove-duplicates-from-sorted-list/)
 ## Stack
 
 1. [Asteroid Collision](Asteroid%20Collision)
