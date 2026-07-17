@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (34)
+- [Array](#array) (35)
 - [String](#string) (4)
 - [Dynamic Programming](#dynamic-programming) (37)
 - [Graphs](#graphs) (8)
@@ -662,6 +662,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 32. [Remove Duplicates from Sorted Array II](remove-duplicates-from-sorted-array-ii/)
 33. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 34. [Find K Pairs with Smallest Sums](find-k-pairs-with-smallest-sums/)
+35. [Construct Target Array With Multiple Sums](construct-target-array-with-multiple-sums/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -702,6 +703,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 2. [Network Recovery Pathways](network-recovery-pathways/)
 3. [Last Stone Weight](last-stone-weight/)
 4. [Find K Pairs with Smallest Sums](find-k-pairs-with-smallest-sums/)
+5. [Construct Target Array With Multiple Sums](construct-target-array-with-multiple-sums/)
 ## Matrix
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
