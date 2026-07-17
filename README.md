@@ -6,7 +6,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Topics
 - [Array](#array) (35)
-- [String](#string) (8)
+- [String](#string) (9)
 - [Dynamic Programming](#dynamic-programming) (37)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
@@ -47,7 +47,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Design](#design) (1)
 - [Combinatorics](#combinatorics) (1)
 - [Counting](#counting) (1)
-- [String Matching](#string-matching) (1)
+- [String Matching](#string-matching) (2)
 
 ## Dynamic Programming
 
@@ -675,6 +675,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 6. [License Key Formatting](license-key-formatting/)
 7. [Masking Personal Information](masking-personal-information/)
 8. [Repeated Substring Pattern](repeated-substring-pattern/)
+9. [Rotate String](rotate-string/)
 ## Enumeration
 1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 
@@ -783,3 +784,4 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## String Matching
 1. [Repeated Substring Pattern](repeated-substring-pattern/)
+2. [Rotate String](rotate-string/)
