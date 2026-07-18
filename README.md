@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (36)
+- [Array](#array) (37)
 - [String](#string) (10)
 - [Dynamic Programming](#dynamic-programming) (37)
 - [Graphs](#graphs) (8)
@@ -26,7 +26,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Hash Table](#hash-table) (27)
 - [Prefix Sum](#prefix-sum) (24)
 - [Bit Manipulation](#bit-manipulation) (12)
-- [Math](#math) (42)
+- [Math](#math) (43)
 - [Simulation](#simulation) (24)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (2)
@@ -42,7 +42,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Counting Sort](#counting-sort) (1)
 - [Monotonic Stack](#monotonic-stack) (3)
-- [Number Theory](#number-theory) (4)
+- [Number Theory](#number-theory) (5)
 - [Database](#database) (12)
 - [Design](#design) (1)
 - [Combinatorics](#combinatorics) (1)
@@ -596,6 +596,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 40. [GCD of Odd and Even Sums](gcd-of-odd-and-even-sums/)
 41. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 42. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
+43. [Find Greatest Common Divisor of Array](find-greatest-common-divisor-of-array/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -667,6 +668,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 34. [Find K Pairs with Smallest Sums](find-k-pairs-with-smallest-sums/)
 35. [Construct Target Array With Multiple Sums](construct-target-array-with-multiple-sums/)
 36. [First Missing Positive](first-missing-positive/)
+37. [Find Greatest Common Divisor of Array](find-greatest-common-divisor-of-array/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -763,6 +765,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 2. [GCD of Odd and Even Sums](gcd-of-odd-and-even-sums/)
 3. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 4. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
+5. [Find Greatest Common Divisor of Array](find-greatest-common-divisor-of-array/)
 ## Database
 1. [Combine Two Tables](combine-two-tables/)
 2. [Employees Earning More Than Their Managers](employees-earning-more-than-their-managers/)
