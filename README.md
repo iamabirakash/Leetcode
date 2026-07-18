@@ -5,9 +5,9 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (37)
+- [Array](#array) (38)
 - [String](#string) (10)
-- [Dynamic Programming](#dynamic-programming) (37)
+- [Dynamic Programming](#dynamic-programming) (38)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
 - [Matrix & Grid](#matrix-grid) (22)
@@ -18,7 +18,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Queue](#queue) (5)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
-- [Two Pointers](#two-pointers) (15)
+- [Two Pointers](#two-pointers) (16)
 - [Binary Search](#binary-search) (17)
 - [Backtracking](#backtracking) (20)
 - [Greedy](#greedy) (17)
@@ -29,7 +29,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Math](#math) (43)
 - [Simulation](#simulation) (24)
 - [Database / SQL](#database-sql) (1)
-- [Enumeration](#enumeration) (2)
+- [Enumeration](#enumeration) (3)
 - [Breadth-First Search](#breadth-first-search) (9)
 - [Graph Theory](#graph-theory) (9)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
@@ -89,6 +89,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 35. [Network Recovery Pathways](network-recovery-pathways/)
 36. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 37. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
+38. [Longest Mountain in Array](longest-mountain-in-array/)
 ## Graphs
 
 1. [check-if-there-is-a-valid-path-in-a-grid](check-if-there-is-a-valid-path-in-a-grid)
@@ -389,6 +390,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 13. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 14. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 15. [Remove Duplicates from Sorted Array II](remove-duplicates-from-sorted-array-ii/)
+16. [Longest Mountain in Array](longest-mountain-in-array/)
 ## Binary Search
 
 1. [binary-search](binary-search)
@@ -669,6 +671,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 35. [Construct Target Array With Multiple Sums](construct-target-array-with-multiple-sums/)
 36. [First Missing Positive](first-missing-positive/)
 37. [Find Greatest Common Divisor of Array](find-greatest-common-divisor-of-array/)
+38. [Longest Mountain in Array](longest-mountain-in-array/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -687,6 +690,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 
 2. [Sequential Digits](sequential-digits/)
+3. [Longest Mountain in Array](longest-mountain-in-array/)
 ## Breadth-First Search
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
