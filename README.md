@@ -6,7 +6,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Topics
 - [Array](#array) (38)
-- [String](#string) (10)
+- [String](#string) (11)
 - [Dynamic Programming](#dynamic-programming) (38)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
@@ -14,14 +14,14 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Strings](#strings) (43)
 - [Arrays](#arrays) (76)
 - [Linked List](#linked-list) (17)
-- [Stack](#stack) (22)
+- [Stack](#stack) (23)
 - [Queue](#queue) (5)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
 - [Two Pointers](#two-pointers) (16)
 - [Binary Search](#binary-search) (17)
 - [Backtracking](#backtracking) (20)
-- [Greedy](#greedy) (17)
+- [Greedy](#greedy) (18)
 - [Sorting](#sorting) (24)
 - [Hash Table](#hash-table) (27)
 - [Prefix Sum](#prefix-sum) (24)
@@ -41,7 +41,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Recursion](#recursion) (1)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Counting Sort](#counting-sort) (1)
-- [Monotonic Stack](#monotonic-stack) (3)
+- [Monotonic Stack](#monotonic-stack) (4)
 - [Number Theory](#number-theory) (5)
 - [Database](#database) (12)
 - [Design](#design) (1)
@@ -331,6 +331,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 20. [Clear Digits](clear-digits/)
 21. [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/)
 22. [Implement Queue using Stacks](implement-queue-using-stacks/)
+23. [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/)
 ## Queue
 
 1. [Kth Largest Element in a Stream](Kth%20Largest%20Element%20in%20a%20Stream)
@@ -454,6 +455,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 16. [Valid Parenthesis String](Valid%20Parenthesis%20String)
 
 17. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
+18. [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/)
 ## Sorting
 
 1. [convert-sorted-array-to-binary-search-tree](convert-sorted-array-to-binary-search-tree)
@@ -685,6 +687,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 8. [Repeated Substring Pattern](repeated-substring-pattern/)
 9. [Rotate String](rotate-string/)
 10. [Repeated String Match](repeated-string-match/)
+11. [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/)
 ## Enumeration
 1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 
@@ -763,6 +766,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 2. [Daily Temperatures](daily-temperatures/)
 3. [Largest Rectangle in Histogram](largest-rectangle-in-histogram/)
 
+4. [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/)
 ## Number Theory
 1. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
 
