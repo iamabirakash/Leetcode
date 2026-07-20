@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (38)
+- [Array](#array) (39)
 - [String](#string) (11)
 - [Dynamic Programming](#dynamic-programming) (38)
 - [Graphs](#graphs) (8)
@@ -27,13 +27,13 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Prefix Sum](#prefix-sum) (24)
 - [Bit Manipulation](#bit-manipulation) (12)
 - [Math](#math) (43)
-- [Simulation](#simulation) (24)
+- [Simulation](#simulation) (25)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (3)
 - [Breadth-First Search](#breadth-first-search) (9)
 - [Graph Theory](#graph-theory) (9)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
-- [Matrix](#matrix) (3)
+- [Matrix](#matrix) (4)
 - [Shortest Path](#shortest-path) (2)
 - [Topological Sort](#topological-sort) (3)
 - [Depth-First Search](#depth-first-search) (6)
@@ -628,6 +628,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 22. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 23. [Number of Students Unable to Eat Lunch](number-of-students-unable-to-eat-lunch/)
 24. [Time Needed to Buy Tickets](time-needed-to-buy-tickets/)
+25. [Shift 2D Grid](shift-2d-grid/)
 ## Database / SQL
 
 1. [Combine Two Tables](Combine_Two_Tables)
@@ -674,6 +675,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 36. [First Missing Positive](first-missing-positive/)
 37. [Find Greatest Common Divisor of Array](find-greatest-common-divisor-of-array/)
 38. [Longest Mountain in Array](longest-mountain-in-array/)
+39. [Shift 2D Grid](shift-2d-grid/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -728,6 +730,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 2. [Max Area of Island](max-area-of-island/)
 3. [Walls and Gates](walls-and-gates/)
+4. [Shift 2D Grid](shift-2d-grid/)
 ## Shortest Path
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
