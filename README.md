@@ -30,14 +30,14 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Simulation](#simulation) (25)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (4)
-- [Breadth-First Search](#breadth-first-search) (10)
-- [Graph Theory](#graph-theory) (10)
+- [Breadth-First Search](#breadth-first-search) (11)
+- [Graph Theory](#graph-theory) (11)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Matrix](#matrix) (4)
 - [Shortest Path](#shortest-path) (2)
 - [Topological Sort](#topological-sort) (3)
-- [Depth-First Search](#depth-first-search) (7)
-- [Union-Find](#union-find) (6)
+- [Depth-First Search](#depth-first-search) (8)
+- [Union-Find](#union-find) (7)
 - [Recursion](#recursion) (1)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Counting Sort](#counting-sort) (1)
@@ -710,6 +710,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 8. [Count the Number of Complete Components](count-the-number-of-complete-components/)
 9. [Word Ladder](word-ladder/)
 10. [Number of Connected Components in an Undirected Graph](number-of-connected-components-in-an-undirected-graph/)
+11. [Redundant Connection](redundant-connection/)
 ## Graph Theory
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
@@ -722,6 +723,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 8. [Graph Valid Tree](graph-valid-tree/)
 9. [Count the Number of Complete Components](count-the-number-of-complete-components/)
 10. [Number of Connected Components in an Undirected Graph](number-of-connected-components-in-an-undirected-graph/)
+11. [Redundant Connection](redundant-connection/)
 ## Heap (Priority Queue)
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
@@ -753,6 +755,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 5. [Graph Valid Tree](graph-valid-tree/)
 6. [Count the Number of Complete Components](count-the-number-of-complete-components/)
 7. [Number of Connected Components in an Undirected Graph](number-of-connected-components-in-an-undirected-graph/)
+8. [Redundant Connection](redundant-connection/)
 ## Union-Find
 1. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
 
@@ -761,6 +764,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 4. [Graph Valid Tree](graph-valid-tree/)
 5. [Count the Number of Complete Components](count-the-number-of-complete-components/)
 6. [Number of Connected Components in an Undirected Graph](number-of-connected-components-in-an-undirected-graph/)
+7. [Redundant Connection](redundant-connection/)
 ## Recursion
 1. [Add Two Numbers](add-two-numbers/)
 
