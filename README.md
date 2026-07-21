@@ -6,7 +6,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Topics
 - [Array](#array) (39)
-- [String](#string) (11)
+- [String](#string) (12)
 - [Dynamic Programming](#dynamic-programming) (38)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
@@ -29,7 +29,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Math](#math) (43)
 - [Simulation](#simulation) (25)
 - [Database / SQL](#database-sql) (1)
-- [Enumeration](#enumeration) (3)
+- [Enumeration](#enumeration) (4)
 - [Breadth-First Search](#breadth-first-search) (9)
 - [Graph Theory](#graph-theory) (9)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
@@ -690,12 +690,14 @@ A topic-wise index of the solution folders in this repository. Some problems app
 9. [Rotate String](rotate-string/)
 10. [Repeated String Match](repeated-string-match/)
 11. [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/)
+12. [Maximize Active Section with Trade I](maximize-active-section-with-trade-i/)
 ## Enumeration
 1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 
 
 2. [Sequential Digits](sequential-digits/)
 3. [Longest Mountain in Array](longest-mountain-in-array/)
+4. [Maximize Active Section with Trade I](maximize-active-section-with-trade-i/)
 ## Breadth-First Search
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
