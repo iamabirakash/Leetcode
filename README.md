@@ -5,8 +5,8 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (39)
-- [String](#string) (12)
+- [Array](#array) (40)
+- [String](#string) (13)
 - [Dynamic Programming](#dynamic-programming) (38)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
@@ -19,7 +19,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
 - [Two Pointers](#two-pointers) (16)
-- [Binary Search](#binary-search) (17)
+- [Binary Search](#binary-search) (18)
 - [Backtracking](#backtracking) (20)
 - [Greedy](#greedy) (18)
 - [Sorting](#sorting) (24)
@@ -48,6 +48,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Combinatorics](#combinatorics) (1)
 - [Counting](#counting) (1)
 - [String Matching](#string-matching) (3)
+- [Segment Tree](#segment-tree) (1)
 
 ## Dynamic Programming
 
@@ -412,6 +413,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 15. [Path Existence Queries in a Graph I](path-existence-queries-in-a-graph-i/)
 16. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 17. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
+18. [Maximize Active Section with Trade II](maximize-active-section-with-trade-ii/)
 ## Backtracking
 
 1. [Combination Sum](Combination%20Sum)
@@ -676,6 +678,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 37. [Find Greatest Common Divisor of Array](find-greatest-common-divisor-of-array/)
 38. [Longest Mountain in Array](longest-mountain-in-array/)
 39. [Shift 2D Grid](shift-2d-grid/)
+40. [Maximize Active Section with Trade II](maximize-active-section-with-trade-ii/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -691,6 +694,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 10. [Repeated String Match](repeated-string-match/)
 11. [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/)
 12. [Maximize Active Section with Trade I](maximize-active-section-with-trade-i/)
+13. [Maximize Active Section with Trade II](maximize-active-section-with-trade-ii/)
 ## Enumeration
 1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 
@@ -814,3 +818,6 @@ A topic-wise index of the solution folders in this repository. Some problems app
 1. [Repeated Substring Pattern](repeated-substring-pattern/)
 2. [Rotate String](rotate-string/)
 3. [Repeated String Match](repeated-string-match/)
+
+## Segment Tree
+1. [Maximize Active Section with Trade II](maximize-active-section-with-trade-ii/)
