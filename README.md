@@ -6,7 +6,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Topics
 - [Array](#array) (41)
-- [String](#string) (14)
+- [String](#string) (15)
 - [Dynamic Programming](#dynamic-programming) (38)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
@@ -36,7 +36,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Matrix](#matrix) (4)
 - [Shortest Path](#shortest-path) (2)
 - [Topological Sort](#topological-sort) (3)
-- [Depth-First Search](#depth-first-search) (8)
+- [Depth-First Search](#depth-first-search) (9)
 - [Union-Find](#union-find) (7)
 - [Recursion](#recursion) (1)
 - [Divide and Conquer](#divide-and-conquer) (1)
@@ -44,12 +44,12 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Monotonic Stack](#monotonic-stack) (4)
 - [Number Theory](#number-theory) (5)
 - [Database](#database) (12)
-- [Design](#design) (2)
+- [Design](#design) (3)
 - [Combinatorics](#combinatorics) (1)
 - [Counting](#counting) (1)
 - [String Matching](#string-matching) (3)
 - [Segment Tree](#segment-tree) (1)
-- [Trie](#trie) (1)
+- [Trie](#trie) (2)
 
 ## Dynamic Programming
 
@@ -701,6 +701,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 12. [Maximize Active Section with Trade I](maximize-active-section-with-trade-i/)
 13. [Maximize Active Section with Trade II](maximize-active-section-with-trade-ii/)
 14. [Implement Trie (Prefix Tree)](implement-trie-prefix-tree/)
+15. [Design Add and Search Words Data Structure](design-add-and-search-words-data-structure/)
 ## Enumeration
 1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 
@@ -766,6 +767,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 6. [Count the Number of Complete Components](count-the-number-of-complete-components/)
 7. [Number of Connected Components in an Undirected Graph](number-of-connected-components-in-an-undirected-graph/)
 8. [Redundant Connection](redundant-connection/)
+9. [Design Add and Search Words Data Structure](design-add-and-search-words-data-structure/)
 ## Union-Find
 1. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
 
@@ -815,6 +817,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 1. [Implement Queue using Stacks](implement-queue-using-stacks/)
 
 2. [Implement Trie (Prefix Tree)](implement-trie-prefix-tree/)
+3. [Design Add and Search Words Data Structure](design-add-and-search-words-data-structure/)
 ## Combinatorics
 1. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 
@@ -831,3 +834,4 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Trie
 1. [Implement Trie (Prefix Tree)](implement-trie-prefix-tree/)
+2. [Design Add and Search Words Data Structure](design-add-and-search-words-data-structure/)
