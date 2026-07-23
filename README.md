@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (41)
+- [Array](#array) (42)
 - [String](#string) (15)
 - [Dynamic Programming](#dynamic-programming) (38)
 - [Graphs](#graphs) (8)
@@ -21,7 +21,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Two Pointers](#two-pointers) (16)
 - [Binary Search](#binary-search) (18)
 - [Backtracking](#backtracking) (20)
-- [Greedy](#greedy) (18)
+- [Greedy](#greedy) (19)
 - [Sorting](#sorting) (24)
 - [Hash Table](#hash-table) (28)
 - [Prefix Sum](#prefix-sum) (24)
@@ -459,6 +459,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 17. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 18. [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/)
+19. [Gas Station](gas-station/)
 ## Sorting
 
 1. [convert-sorted-array-to-binary-search-tree](convert-sorted-array-to-binary-search-tree)
@@ -684,6 +685,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 39. [Shift 2D Grid](shift-2d-grid/)
 40. [Maximize Active Section with Trade II](maximize-active-section-with-trade-ii/)
 41. [Number of Unique XOR Triplets I](number-of-unique-xor-triplets-i/)
+42. [Gas Station](gas-station/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
