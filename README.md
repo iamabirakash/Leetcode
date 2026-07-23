@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (40)
+- [Array](#array) (41)
 - [String](#string) (13)
 - [Dynamic Programming](#dynamic-programming) (38)
 - [Graphs](#graphs) (8)
@@ -25,8 +25,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Sorting](#sorting) (24)
 - [Hash Table](#hash-table) (27)
 - [Prefix Sum](#prefix-sum) (24)
-- [Bit Manipulation](#bit-manipulation) (12)
-- [Math](#math) (43)
+- [Bit Manipulation](#bit-manipulation) (13)
+- [Math](#math) (44)
 - [Simulation](#simulation) (25)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (4)
@@ -557,6 +557,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 11. [xor-after-range-multiplication-queries-i](xor-after-range-multiplication-queries-i)
 
 12. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
+13. [Number of Unique XOR Triplets I](number-of-unique-xor-triplets-i/)
 ## Math
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -603,6 +604,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 41. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 42. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 43. [Find Greatest Common Divisor of Array](find-greatest-common-divisor-of-array/)
+44. [Number of Unique XOR Triplets I](number-of-unique-xor-triplets-i/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -679,6 +681,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 38. [Longest Mountain in Array](longest-mountain-in-array/)
 39. [Shift 2D Grid](shift-2d-grid/)
 40. [Maximize Active Section with Trade II](maximize-active-section-with-trade-ii/)
+41. [Number of Unique XOR Triplets I](number-of-unique-xor-triplets-i/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
