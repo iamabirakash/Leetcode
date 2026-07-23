@@ -43,7 +43,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Counting Sort](#counting-sort) (1)
 - [Monotonic Stack](#monotonic-stack) (4)
 - [Number Theory](#number-theory) (5)
-- [Database](#database) (13)
+- [Database](#database) (14)
 - [Design](#design) (3)
 - [Combinatorics](#combinatorics) (1)
 - [Counting](#counting) (1)
@@ -816,6 +816,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 12. [Movie Rating](movie-rating/)
 
 13. [Calculate Special Bonus](calculate-special-bonus/)
+14. [Customers Who Never Order](customers-who-never-order/)
 ## Design
 1. [Implement Queue using Stacks](implement-queue-using-stacks/)
 
