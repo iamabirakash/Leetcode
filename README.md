@@ -6,7 +6,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Topics
 - [Array](#array) (41)
-- [String](#string) (13)
+- [String](#string) (14)
 - [Dynamic Programming](#dynamic-programming) (38)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
@@ -23,7 +23,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Backtracking](#backtracking) (20)
 - [Greedy](#greedy) (18)
 - [Sorting](#sorting) (24)
-- [Hash Table](#hash-table) (27)
+- [Hash Table](#hash-table) (28)
 - [Prefix Sum](#prefix-sum) (24)
 - [Bit Manipulation](#bit-manipulation) (13)
 - [Math](#math) (44)
@@ -44,11 +44,12 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Monotonic Stack](#monotonic-stack) (4)
 - [Number Theory](#number-theory) (5)
 - [Database](#database) (12)
-- [Design](#design) (1)
+- [Design](#design) (2)
 - [Combinatorics](#combinatorics) (1)
 - [Counting](#counting) (1)
 - [String Matching](#string-matching) (3)
 - [Segment Tree](#segment-tree) (1)
+- [Trie](#trie) (1)
 
 ## Dynamic Programming
 
@@ -515,6 +516,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 25. [Word Ladder](word-ladder/)
 26. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 27. [First Missing Positive](first-missing-positive/)
+28. [Implement Trie (Prefix Tree)](implement-trie-prefix-tree/)
 ## Prefix Sum
 
 1. [binary-subarrays-with-sum](binary-subarrays-with-sum)
@@ -698,6 +700,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 11. [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/)
 12. [Maximize Active Section with Trade I](maximize-active-section-with-trade-i/)
 13. [Maximize Active Section with Trade II](maximize-active-section-with-trade-ii/)
+14. [Implement Trie (Prefix Tree)](implement-trie-prefix-tree/)
 ## Enumeration
 1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 
@@ -811,6 +814,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Design
 1. [Implement Queue using Stacks](implement-queue-using-stacks/)
 
+2. [Implement Trie (Prefix Tree)](implement-trie-prefix-tree/)
 ## Combinatorics
 1. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 
@@ -824,3 +828,6 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Segment Tree
 1. [Maximize Active Section with Trade II](maximize-active-section-with-trade-ii/)
+
+## Trie
+1. [Implement Trie (Prefix Tree)](implement-trie-prefix-tree/)
