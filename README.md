@@ -22,11 +22,11 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Binary Search](#binary-search) (18)
 - [Backtracking](#backtracking) (20)
 - [Greedy](#greedy) (19)
-- [Sorting](#sorting) (24)
+- [Sorting](#sorting) (25)
 - [Hash Table](#hash-table) (28)
 - [Prefix Sum](#prefix-sum) (24)
 - [Bit Manipulation](#bit-manipulation) (13)
-- [Math](#math) (44)
+- [Math](#math) (45)
 - [Simulation](#simulation) (25)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (4)
@@ -487,6 +487,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 22. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 23. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 24. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
+25. [Maximum Product of Two Digits](maximum-product-of-two-digits/)
 ## Hash Table
 
 1. [closest-equal-element-queries](closest-equal-element-queries)
@@ -608,6 +609,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 42. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 43. [Find Greatest Common Divisor of Array](find-greatest-common-divisor-of-array/)
 44. [Number of Unique XOR Triplets I](number-of-unique-xor-triplets-i/)
+45. [Maximum Product of Two Digits](maximum-product-of-two-digits/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
