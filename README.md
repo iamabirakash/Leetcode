@@ -7,7 +7,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Topics
 - [Array](#array) (42)
 - [String](#string) (15)
-- [Dynamic Programming](#dynamic-programming) (38)
+- [Dynamic Programming](#dynamic-programming) (39)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
 - [Matrix & Grid](#matrix-grid) (22)
@@ -26,7 +26,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Hash Table](#hash-table) (28)
 - [Prefix Sum](#prefix-sum) (24)
 - [Bit Manipulation](#bit-manipulation) (13)
-- [Math](#math) (45)
+- [Math](#math) (46)
 - [Simulation](#simulation) (25)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (4)
@@ -92,6 +92,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 36. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 37. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
 38. [Longest Mountain in Array](longest-mountain-in-array/)
+39. [Rotated Digits](rotated-digits/)
 ## Graphs
 
 1. [check-if-there-is-a-valid-path-in-a-grid](check-if-there-is-a-valid-path-in-a-grid)
@@ -610,6 +611,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 43. [Find Greatest Common Divisor of Array](find-greatest-common-divisor-of-array/)
 44. [Number of Unique XOR Triplets I](number-of-unique-xor-triplets-i/)
 45. [Maximum Product of Two Digits](maximum-product-of-two-digits/)
+46. [Rotated Digits](rotated-digits/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
