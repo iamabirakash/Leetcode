@@ -5,9 +5,9 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (43)
+- [Array](#array) (44)
 - [String](#string) (15)
-- [Dynamic Programming](#dynamic-programming) (39)
+- [Dynamic Programming](#dynamic-programming) (40)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
 - [Matrix & Grid](#matrix-grid) (22)
@@ -93,6 +93,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 37. [Find the Number of Subsequences With Equal GCD](find-the-number-of-subsequences-with-equal-gcd/)
 38. [Longest Mountain in Array](longest-mountain-in-array/)
 39. [Rotated Digits](rotated-digits/)
+40. [Jump Game IX](jump-game-ix/)
 ## Graphs
 
 1. [check-if-there-is-a-valid-path-in-a-grid](check-if-there-is-a-valid-path-in-a-grid)
@@ -694,6 +695,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 41. [Number of Unique XOR Triplets I](number-of-unique-xor-triplets-i/)
 42. [Gas Station](gas-station/)
 43. [Rotate Image](rotate-image/)
+44. [Jump Game IX](jump-game-ix/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
