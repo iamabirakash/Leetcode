@@ -13,12 +13,12 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Matrix & Grid](#matrix-grid) (22)
 - [Strings](#strings) (43)
 - [Arrays](#arrays) (76)
-- [Linked List](#linked-list) (17)
+- [Linked List](#linked-list) (18)
 - [Stack](#stack) (23)
 - [Queue](#queue) (5)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
-- [Two Pointers](#two-pointers) (16)
+- [Two Pointers](#two-pointers) (17)
 - [Binary Search](#binary-search) (18)
 - [Backtracking](#backtracking) (20)
 - [Greedy](#greedy) (19)
@@ -309,6 +309,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 16. [Add Two Numbers](add-two-numbers/)
 17. [Remove Duplicates from Sorted List](remove-duplicates-from-sorted-list/)
+18. [Rotate List](rotate-list/)
 ## Stack
 
 1. [Asteroid Collision](Asteroid%20Collision)
@@ -395,6 +396,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 14. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 15. [Remove Duplicates from Sorted Array II](remove-duplicates-from-sorted-array-ii/)
 16. [Longest Mountain in Array](longest-mountain-in-array/)
+17. [Rotate List](rotate-list/)
 ## Binary Search
 
 1. [binary-search](binary-search)
