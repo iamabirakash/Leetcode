@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (42)
+- [Array](#array) (43)
 - [String](#string) (15)
 - [Dynamic Programming](#dynamic-programming) (39)
 - [Graphs](#graphs) (8)
@@ -26,14 +26,14 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Hash Table](#hash-table) (28)
 - [Prefix Sum](#prefix-sum) (24)
 - [Bit Manipulation](#bit-manipulation) (13)
-- [Math](#math) (46)
+- [Math](#math) (47)
 - [Simulation](#simulation) (25)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (4)
 - [Breadth-First Search](#breadth-first-search) (11)
 - [Graph Theory](#graph-theory) (11)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
-- [Matrix](#matrix) (4)
+- [Matrix](#matrix) (5)
 - [Shortest Path](#shortest-path) (2)
 - [Topological Sort](#topological-sort) (3)
 - [Depth-First Search](#depth-first-search) (9)
@@ -612,6 +612,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 44. [Number of Unique XOR Triplets I](number-of-unique-xor-triplets-i/)
 45. [Maximum Product of Two Digits](maximum-product-of-two-digits/)
 46. [Rotated Digits](rotated-digits/)
+47. [Rotate Image](rotate-image/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -690,6 +691,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 40. [Maximize Active Section with Trade II](maximize-active-section-with-trade-ii/)
 41. [Number of Unique XOR Triplets I](number-of-unique-xor-triplets-i/)
 42. [Gas Station](gas-station/)
+43. [Rotate Image](rotate-image/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -754,6 +756,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 2. [Max Area of Island](max-area-of-island/)
 3. [Walls and Gates](walls-and-gates/)
 4. [Shift 2D Grid](shift-2d-grid/)
+5. [Rotate Image](rotate-image/)
 ## Shortest Path
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
