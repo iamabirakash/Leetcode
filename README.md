@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (44)
+- [Array](#array) (45)
 - [String](#string) (15)
 - [Dynamic Programming](#dynamic-programming) (40)
 - [Graphs](#graphs) (8)
@@ -21,9 +21,9 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Two Pointers](#two-pointers) (17)
 - [Binary Search](#binary-search) (18)
 - [Backtracking](#backtracking) (20)
-- [Greedy](#greedy) (19)
+- [Greedy](#greedy) (20)
 - [Sorting](#sorting) (25)
-- [Hash Table](#hash-table) (28)
+- [Hash Table](#hash-table) (29)
 - [Prefix Sum](#prefix-sum) (24)
 - [Bit Manipulation](#bit-manipulation) (13)
 - [Math](#math) (47)
@@ -464,6 +464,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 17. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 18. [Smallest Subsequence of Distinct Characters](smallest-subsequence-of-distinct-characters/)
 19. [Gas Station](gas-station/)
+20. [Group the People Given the Group Size They Belong To](group-the-people-given-the-group-size-they-belong-to/)
 ## Sorting
 
 1. [convert-sorted-array-to-binary-search-tree](convert-sorted-array-to-binary-search-tree)
@@ -523,6 +524,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 26. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 27. [First Missing Positive](first-missing-positive/)
 28. [Implement Trie (Prefix Tree)](implement-trie-prefix-tree/)
+29. [Group the People Given the Group Size They Belong To](group-the-people-given-the-group-size-they-belong-to/)
 ## Prefix Sum
 
 1. [binary-subarrays-with-sum](binary-subarrays-with-sum)
@@ -696,6 +698,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 42. [Gas Station](gas-station/)
 43. [Rotate Image](rotate-image/)
 44. [Jump Game IX](jump-game-ix/)
+45. [Group the People Given the Group Size They Belong To](group-the-people-given-the-group-size-they-belong-to/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
