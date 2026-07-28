@@ -6,7 +6,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Topics
 - [Array](#array) (45)
-- [String](#string) (15)
+- [String](#string) (16)
 - [Dynamic Programming](#dynamic-programming) (40)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
@@ -22,7 +22,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Binary Search](#binary-search) (18)
 - [Backtracking](#backtracking) (20)
 - [Greedy](#greedy) (20)
-- [Sorting](#sorting) (25)
+- [Sorting](#sorting) (26)
 - [Hash Table](#hash-table) (29)
 - [Prefix Sum](#prefix-sum) (24)
 - [Bit Manipulation](#bit-manipulation) (13)
@@ -40,7 +40,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Union-Find](#union-find) (7)
 - [Recursion](#recursion) (1)
 - [Divide and Conquer](#divide-and-conquer) (1)
-- [Counting Sort](#counting-sort) (1)
+- [Counting Sort](#counting-sort) (2)
 - [Monotonic Stack](#monotonic-stack) (4)
 - [Number Theory](#number-theory) (5)
 - [Database](#database) (14)
@@ -493,6 +493,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 23. [Path Existence Queries in a Graph II](path-existence-queries-in-a-graph-ii/)
 24. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 25. [Maximum Product of Two Digits](maximum-product-of-two-digits/)
+26. [Smallest Palindromic Rearrangement I](smallest-palindromic-rearrangement-i/)
 ## Hash Table
 
 1. [closest-equal-element-queries](closest-equal-element-queries)
@@ -717,6 +718,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 13. [Maximize Active Section with Trade II](maximize-active-section-with-trade-ii/)
 14. [Implement Trie (Prefix Tree)](implement-trie-prefix-tree/)
 15. [Design Add and Search Words Data Structure](design-add-and-search-words-data-structure/)
+16. [Smallest Palindromic Rearrangement I](smallest-palindromic-rearrangement-i/)
 ## Enumeration
 1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 
@@ -802,6 +804,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Counting Sort
 1. [How Many Numbers Are Smaller Than the Current Number](how-many-numbers-are-smaller-than-the-current-number/)
 
+2. [Smallest Palindromic Rearrangement I](smallest-palindromic-rearrangement-i/)
 ## Monotonic Stack
 1. [Final Prices With a Special Discount in a Shop](final-prices-with-a-special-discount-in-a-shop/)
 2. [Daily Temperatures](daily-temperatures/)
