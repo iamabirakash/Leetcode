@@ -5,7 +5,7 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (48)
+- [Array](#array) (49)
 - [String](#string) (16)
 - [Dynamic Programming](#dynamic-programming) (43)
 - [Graphs](#graphs) (8)
@@ -22,8 +22,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Binary Search](#binary-search) (18)
 - [Backtracking](#backtracking) (20)
 - [Greedy](#greedy) (20)
-- [Sorting](#sorting) (26)
-- [Hash Table](#hash-table) (29)
+- [Sorting](#sorting) (27)
+- [Hash Table](#hash-table) (30)
 - [Prefix Sum](#prefix-sum) (24)
 - [Bit Manipulation](#bit-manipulation) (13)
 - [Math](#math) (50)
@@ -500,6 +500,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 24. [Sum of GCD of Formed Pairs](sum-of-gcd-of-formed-pairs/)
 25. [Maximum Product of Two Digits](maximum-product-of-two-digits/)
 26. [Smallest Palindromic Rearrangement I](smallest-palindromic-rearrangement-i/)
+27. [Find Missing Elements](find-missing-elements/)
 ## Hash Table
 
 1. [closest-equal-element-queries](closest-equal-element-queries)
@@ -532,6 +533,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 27. [First Missing Positive](first-missing-positive/)
 28. [Implement Trie (Prefix Tree)](implement-trie-prefix-tree/)
 29. [Group the People Given the Group Size They Belong To](group-the-people-given-the-group-size-they-belong-to/)
+30. [Find Missing Elements](find-missing-elements/)
 ## Prefix Sum
 
 1. [binary-subarrays-with-sum](binary-subarrays-with-sum)
@@ -712,6 +714,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 46. [Predict the Winner](predict-the-winner/)
 47. [Stone Game](stone-game/)
 48. [Stone Game III](stone-game-iii/)
+49. [Find Missing Elements](find-missing-elements/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
