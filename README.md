@@ -5,9 +5,9 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (45)
+- [Array](#array) (46)
 - [String](#string) (16)
-- [Dynamic Programming](#dynamic-programming) (40)
+- [Dynamic Programming](#dynamic-programming) (41)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
 - [Matrix & Grid](#matrix-grid) (22)
@@ -26,7 +26,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Hash Table](#hash-table) (29)
 - [Prefix Sum](#prefix-sum) (24)
 - [Bit Manipulation](#bit-manipulation) (13)
-- [Math](#math) (47)
+- [Math](#math) (48)
 - [Simulation](#simulation) (25)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (4)
@@ -38,7 +38,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Topological Sort](#topological-sort) (3)
 - [Depth-First Search](#depth-first-search) (9)
 - [Union-Find](#union-find) (7)
-- [Recursion](#recursion) (1)
+- [Recursion](#recursion) (2)
 - [Divide and Conquer](#divide-and-conquer) (1)
 - [Counting Sort](#counting-sort) (2)
 - [Monotonic Stack](#monotonic-stack) (4)
@@ -50,6 +50,9 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [String Matching](#string-matching) (3)
 - [Segment Tree](#segment-tree) (1)
 - [Trie](#trie) (2)
+- [Minimax](#minimax) (1)
+- [Game Theory](#game-theory) (1)
+- [Zero-Sum Game](#zero-sum-game) (1)
 
 ## Dynamic Programming
 
@@ -94,6 +97,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 38. [Longest Mountain in Array](longest-mountain-in-array/)
 39. [Rotated Digits](rotated-digits/)
 40. [Jump Game IX](jump-game-ix/)
+41. [Predict the Winner](predict-the-winner/)
 ## Graphs
 
 1. [check-if-there-is-a-valid-path-in-a-grid](check-if-there-is-a-valid-path-in-a-grid)
@@ -619,6 +623,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 45. [Maximum Product of Two Digits](maximum-product-of-two-digits/)
 46. [Rotated Digits](rotated-digits/)
 47. [Rotate Image](rotate-image/)
+48. [Predict the Winner](predict-the-winner/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -700,6 +705,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 43. [Rotate Image](rotate-image/)
 44. [Jump Game IX](jump-game-ix/)
 45. [Group the People Given the Group Size They Belong To](group-the-people-given-the-group-size-they-belong-to/)
+46. [Predict the Winner](predict-the-winner/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -798,6 +804,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Recursion
 1. [Add Two Numbers](add-two-numbers/)
 
+2. [Predict the Winner](predict-the-winner/)
 ## Divide and Conquer
 1. [Median of Two Sorted Arrays](median-of-two-sorted-arrays/)
 
@@ -856,3 +863,12 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Trie
 1. [Implement Trie (Prefix Tree)](implement-trie-prefix-tree/)
 2. [Design Add and Search Words Data Structure](design-add-and-search-words-data-structure/)
+
+## Minimax
+1. [Predict the Winner](predict-the-winner/)
+
+## Game Theory
+1. [Predict the Winner](predict-the-winner/)
+
+## Zero-Sum Game
+1. [Predict the Winner](predict-the-winner/)
