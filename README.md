@@ -5,9 +5,9 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (46)
+- [Array](#array) (47)
 - [String](#string) (16)
-- [Dynamic Programming](#dynamic-programming) (41)
+- [Dynamic Programming](#dynamic-programming) (42)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
 - [Matrix & Grid](#matrix-grid) (22)
@@ -26,7 +26,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Hash Table](#hash-table) (29)
 - [Prefix Sum](#prefix-sum) (24)
 - [Bit Manipulation](#bit-manipulation) (13)
-- [Math](#math) (48)
+- [Math](#math) (49)
 - [Simulation](#simulation) (25)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (4)
@@ -50,9 +50,9 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [String Matching](#string-matching) (3)
 - [Segment Tree](#segment-tree) (1)
 - [Trie](#trie) (2)
-- [Minimax](#minimax) (1)
-- [Game Theory](#game-theory) (1)
-- [Zero-Sum Game](#zero-sum-game) (1)
+- [Minimax](#minimax) (2)
+- [Game Theory](#game-theory) (2)
+- [Zero-Sum Game](#zero-sum-game) (2)
 
 ## Dynamic Programming
 
@@ -98,6 +98,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 39. [Rotated Digits](rotated-digits/)
 40. [Jump Game IX](jump-game-ix/)
 41. [Predict the Winner](predict-the-winner/)
+42. [Stone Game](stone-game/)
 ## Graphs
 
 1. [check-if-there-is-a-valid-path-in-a-grid](check-if-there-is-a-valid-path-in-a-grid)
@@ -624,6 +625,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 46. [Rotated Digits](rotated-digits/)
 47. [Rotate Image](rotate-image/)
 48. [Predict the Winner](predict-the-winner/)
+49. [Stone Game](stone-game/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -706,6 +708,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 44. [Jump Game IX](jump-game-ix/)
 45. [Group the People Given the Group Size They Belong To](group-the-people-given-the-group-size-they-belong-to/)
 46. [Predict the Winner](predict-the-winner/)
+47. [Stone Game](stone-game/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -867,8 +870,11 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Minimax
 1. [Predict the Winner](predict-the-winner/)
 
+2. [Stone Game](stone-game/)
 ## Game Theory
 1. [Predict the Winner](predict-the-winner/)
 
+2. [Stone Game](stone-game/)
 ## Zero-Sum Game
 1. [Predict the Winner](predict-the-winner/)
+2. [Stone Game](stone-game/)
