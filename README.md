@@ -30,13 +30,13 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Simulation](#simulation) (25)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (4)
-- [Breadth-First Search](#breadth-first-search) (11)
-- [Graph Theory](#graph-theory) (11)
+- [Breadth-First Search](#breadth-first-search) (12)
+- [Graph Theory](#graph-theory) (12)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
 - [Matrix](#matrix) (5)
 - [Shortest Path](#shortest-path) (2)
 - [Topological Sort](#topological-sort) (3)
-- [Depth-First Search](#depth-first-search) (9)
+- [Depth-First Search](#depth-first-search) (10)
 - [Union-Find](#union-find) (7)
 - [Recursion](#recursion) (2)
 - [Divide and Conquer](#divide-and-conquer) (1)
@@ -754,6 +754,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 9. [Word Ladder](word-ladder/)
 10. [Number of Connected Components in an Undirected Graph](number-of-connected-components-in-an-undirected-graph/)
 11. [Redundant Connection](redundant-connection/)
+12. [Remove Methods From Project](remove-methods-from-project/)
 ## Graph Theory
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
@@ -767,6 +768,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 9. [Count the Number of Complete Components](count-the-number-of-complete-components/)
 10. [Number of Connected Components in an Undirected Graph](number-of-connected-components-in-an-undirected-graph/)
 11. [Redundant Connection](redundant-connection/)
+12. [Remove Methods From Project](remove-methods-from-project/)
 ## Heap (Priority Queue)
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
@@ -801,6 +803,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 7. [Number of Connected Components in an Undirected Graph](number-of-connected-components-in-an-undirected-graph/)
 8. [Redundant Connection](redundant-connection/)
 9. [Design Add and Search Words Data Structure](design-add-and-search-words-data-structure/)
+10. [Remove Methods From Project](remove-methods-from-project/)
 ## Union-Find
 1. [Minimum Score of a Path Between Two Cities](minimum-score-of-a-path-between-two-cities/)
 
