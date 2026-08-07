@@ -1,4 +1,4 @@
-<h2><a href="leetcode.com/problems/smallest-divisible-digit-product-ii/submissions/2097476928/?envType=daily-question&envId=2026-08-07">smallest-divisible-digit-product-ii</a></h2>
+<h2><a href="https://leetcode.com/problems/smallest-divisible-digit-product-ii/submissions/2097486141/?envType=daily-question&envId=2026-08-07">smallest-divisible-digit-product-ii</a></h2>
 
 <p>You are given a string <code>num</code> which represents a <strong>positive</strong> integer, and an integer <code>t</code>.</p>
 
