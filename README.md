@@ -5,9 +5,9 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (49)
+- [Array](#array) (50)
 - [String](#string) (18)
-- [Dynamic Programming](#dynamic-programming) (45)
+- [Dynamic Programming](#dynamic-programming) (46)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
 - [Matrix & Grid](#matrix-grid) (22)
@@ -33,7 +33,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Breadth-First Search](#breadth-first-search) (12)
 - [Graph Theory](#graph-theory) (12)
 - [Heap (Priority Queue)](#heap-priority-queue) (1)
-- [Matrix](#matrix) (5)
+- [Matrix](#matrix) (6)
 - [Shortest Path](#shortest-path) (2)
 - [Topological Sort](#topological-sort) (3)
 - [Depth-First Search](#depth-first-search) (10)
@@ -102,6 +102,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 43. [Stone Game III](stone-game-iii/)
 44. [Find the Lexicographically Smallest Valid Sequence](find-the-lexicographically-smallest-valid-sequence/)
 45. [Unique Paths](unique-paths/)
+46. [Unique Paths II](unique-paths-ii/)
 ## Graphs
 
 1. [check-if-there-is-a-valid-path-in-a-grid](check-if-there-is-a-valid-path-in-a-grid)
@@ -723,6 +724,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 47. [Stone Game](stone-game/)
 48. [Stone Game III](stone-game-iii/)
 49. [Find Missing Elements](find-missing-elements/)
+50. [Unique Paths II](unique-paths-ii/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -793,6 +795,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 3. [Walls and Gates](walls-and-gates/)
 4. [Shift 2D Grid](shift-2d-grid/)
 5. [Rotate Image](rotate-image/)
+6. [Unique Paths II](unique-paths-ii/)
 ## Shortest Path
 1. [Find a Safe Walk Through a Grid](find-a-safe-walk-through-a-grid/)
 
