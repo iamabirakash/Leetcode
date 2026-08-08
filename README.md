@@ -6,8 +6,8 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 ## Topics
 - [Array](#array) (49)
-- [String](#string) (17)
-- [Dynamic Programming](#dynamic-programming) (43)
+- [String](#string) (18)
+- [Dynamic Programming](#dynamic-programming) (44)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
 - [Matrix & Grid](#matrix-grid) (22)
@@ -18,10 +18,10 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Queue](#queue) (5)
 - [Heap / Priority Queue](#heap-priority-queue) (4)
 - [Sliding Window](#sliding-window) (23)
-- [Two Pointers](#two-pointers) (17)
+- [Two Pointers](#two-pointers) (18)
 - [Binary Search](#binary-search) (18)
 - [Backtracking](#backtracking) (21)
-- [Greedy](#greedy) (21)
+- [Greedy](#greedy) (22)
 - [Sorting](#sorting) (27)
 - [Hash Table](#hash-table) (30)
 - [Prefix Sum](#prefix-sum) (24)
@@ -100,6 +100,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 41. [Predict the Winner](predict-the-winner/)
 42. [Stone Game](stone-game/)
 43. [Stone Game III](stone-game-iii/)
+44. [Find the Lexicographically Smallest Valid Sequence](find-the-lexicographically-smallest-valid-sequence/)
 ## Graphs
 
 1. [check-if-there-is-a-valid-path-in-a-grid](check-if-there-is-a-valid-path-in-a-grid)
@@ -404,6 +405,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 15. [Remove Duplicates from Sorted Array II](remove-duplicates-from-sorted-array-ii/)
 16. [Longest Mountain in Array](longest-mountain-in-array/)
 17. [Rotate List](rotate-list/)
+18. [Find the Lexicographically Smallest Valid Sequence](find-the-lexicographically-smallest-valid-sequence/)
 ## Binary Search
 
 1. [binary-search](binary-search)
@@ -473,6 +475,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 19. [Gas Station](gas-station/)
 20. [Group the People Given the Group Size They Belong To](group-the-people-given-the-group-size-they-belong-to/)
 21. [Smallest Divisible Digit Product II](smallest-divisible-digit-product-ii/)
+22. [Find the Lexicographically Smallest Valid Sequence](find-the-lexicographically-smallest-valid-sequence/)
 ## Sorting
 
 1. [convert-sorted-array-to-binary-search-tree](convert-sorted-array-to-binary-search-tree)
@@ -738,6 +741,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 15. [Design Add and Search Words Data Structure](design-add-and-search-words-data-structure/)
 16. [Smallest Palindromic Rearrangement I](smallest-palindromic-rearrangement-i/)
 17. [Smallest Divisible Digit Product II](smallest-divisible-digit-product-ii/)
+18. [Find the Lexicographically Smallest Valid Sequence](find-the-lexicographically-smallest-valid-sequence/)
 ## Enumeration
 1. [Divide an Array Into Subarrays With Minimum Cost I](divide-an-array-into-subarrays-with-minimum-cost-i/)
 
