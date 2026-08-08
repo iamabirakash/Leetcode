@@ -7,7 +7,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Topics
 - [Array](#array) (49)
 - [String](#string) (18)
-- [Dynamic Programming](#dynamic-programming) (44)
+- [Dynamic Programming](#dynamic-programming) (45)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
 - [Matrix & Grid](#matrix-grid) (22)
@@ -26,7 +26,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Hash Table](#hash-table) (30)
 - [Prefix Sum](#prefix-sum) (24)
 - [Bit Manipulation](#bit-manipulation) (13)
-- [Math](#math) (51)
+- [Math](#math) (52)
 - [Simulation](#simulation) (25)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (4)
@@ -45,7 +45,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Number Theory](#number-theory) (6)
 - [Database](#database) (14)
 - [Design](#design) (3)
-- [Combinatorics](#combinatorics) (1)
+- [Combinatorics](#combinatorics) (2)
 - [Counting](#counting) (1)
 - [String Matching](#string-matching) (3)
 - [Segment Tree](#segment-tree) (1)
@@ -101,6 +101,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 42. [Stone Game](stone-game/)
 43. [Stone Game III](stone-game-iii/)
 44. [Find the Lexicographically Smallest Valid Sequence](find-the-lexicographically-smallest-valid-sequence/)
+45. [Unique Paths](unique-paths/)
 ## Graphs
 
 1. [check-if-there-is-a-valid-path-in-a-grid](check-if-there-is-a-valid-path-in-a-grid)
@@ -636,6 +637,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 49. [Stone Game](stone-game/)
 50. [Stone Game III](stone-game-iii/)
 51. [Smallest Divisible Digit Product II](smallest-divisible-digit-product-ii/)
+52. [Unique Paths](unique-paths/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -870,6 +872,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Combinatorics
 1. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 
+2. [Unique Paths](unique-paths/)
 ## Counting
 1. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
 
