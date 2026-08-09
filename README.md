@@ -5,9 +5,9 @@
 A topic-wise index of the solution folders in this repository. Some problems appear in multiple sections when they naturally fit more than one pattern.
 
 ## Topics
-- [Array](#array) (50)
+- [Array](#array) (51)
 - [String](#string) (18)
-- [Dynamic Programming](#dynamic-programming) (46)
+- [Dynamic Programming](#dynamic-programming) (47)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
 - [Matrix & Grid](#matrix-grid) (22)
@@ -24,9 +24,9 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Greedy](#greedy) (22)
 - [Sorting](#sorting) (27)
 - [Hash Table](#hash-table) (30)
-- [Prefix Sum](#prefix-sum) (24)
+- [Prefix Sum](#prefix-sum) (25)
 - [Bit Manipulation](#bit-manipulation) (13)
-- [Math](#math) (52)
+- [Math](#math) (53)
 - [Simulation](#simulation) (25)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (4)
@@ -50,9 +50,9 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [String Matching](#string-matching) (3)
 - [Segment Tree](#segment-tree) (1)
 - [Trie](#trie) (2)
-- [Minimax](#minimax) (3)
-- [Game Theory](#game-theory) (3)
-- [Zero-Sum Game](#zero-sum-game) (3)
+- [Minimax](#minimax) (4)
+- [Game Theory](#game-theory) (4)
+- [Zero-Sum Game](#zero-sum-game) (4)
 
 ## Dynamic Programming
 
@@ -103,6 +103,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 44. [Find the Lexicographically Smallest Valid Sequence](find-the-lexicographically-smallest-valid-sequence/)
 45. [Unique Paths](unique-paths/)
 46. [Unique Paths II](unique-paths-ii/)
+47. [Stone Game II](stone-game-ii/)
 ## Graphs
 
 1. [check-if-there-is-a-valid-path-in-a-grid](check-if-there-is-a-valid-path-in-a-grid)
@@ -568,6 +569,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 22. [Points That Intersect With Cars](points-that-intersect-with-cars/)
 23. [Concatenate Non-Zero Digits and Multiply by Sum II](concatenate-non-zero-digits-and-multiply-by-sum-ii/)
 24. [Sorted GCD Pair Queries](sorted-gcd-pair-queries/)
+25. [Stone Game II](stone-game-ii/)
 ## Bit Manipulation
 
 1. [Count Number of Maximum Bitwise-OR Subsets](Count%20Number%20of%20Maximum%20Bitwise-OR%20Subsets)
@@ -639,6 +641,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 50. [Stone Game III](stone-game-iii/)
 51. [Smallest Divisible Digit Product II](smallest-divisible-digit-product-ii/)
 52. [Unique Paths](unique-paths/)
+53. [Stone Game II](stone-game-ii/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -725,6 +728,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 48. [Stone Game III](stone-game-iii/)
 49. [Find Missing Elements](find-missing-elements/)
 50. [Unique Paths II](unique-paths-ii/)
+51. [Stone Game II](stone-game-ii/)
 ## String
 
 1. [Number of Substrings Containing All Three Characters](number-of-substrings-containing-all-three-characters/)
@@ -896,12 +900,15 @@ A topic-wise index of the solution folders in this repository. Some problems app
 
 2. [Stone Game](stone-game/)
 3. [Stone Game III](stone-game-iii/)
+4. [Stone Game II](stone-game-ii/)
 ## Game Theory
 1. [Predict the Winner](predict-the-winner/)
 
 2. [Stone Game](stone-game/)
 3. [Stone Game III](stone-game-iii/)
+4. [Stone Game II](stone-game-ii/)
 ## Zero-Sum Game
 1. [Predict the Winner](predict-the-winner/)
 2. [Stone Game](stone-game/)
 3. [Stone Game III](stone-game-iii/)
+4. [Stone Game II](stone-game-ii/)
