@@ -7,7 +7,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 ## Topics
 - [Array](#array) (51)
 - [String](#string) (18)
-- [Dynamic Programming](#dynamic-programming) (47)
+- [Dynamic Programming](#dynamic-programming) (48)
 - [Graphs](#graphs) (8)
 - [Trees](#trees) (32)
 - [Matrix & Grid](#matrix-grid) (22)
@@ -26,7 +26,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [Hash Table](#hash-table) (30)
 - [Prefix Sum](#prefix-sum) (25)
 - [Bit Manipulation](#bit-manipulation) (13)
-- [Math](#math) (53)
+- [Math](#math) (54)
 - [Simulation](#simulation) (25)
 - [Database / SQL](#database-sql) (1)
 - [Enumeration](#enumeration) (4)
@@ -50,9 +50,11 @@ A topic-wise index of the solution folders in this repository. Some problems app
 - [String Matching](#string-matching) (3)
 - [Segment Tree](#segment-tree) (1)
 - [Trie](#trie) (2)
-- [Minimax](#minimax) (4)
-- [Game Theory](#game-theory) (4)
-- [Zero-Sum Game](#zero-sum-game) (4)
+- [Minimax](#minimax) (5)
+- [Game Theory](#game-theory) (5)
+- [Zero-Sum Game](#zero-sum-game) (5)
+- [Nim Game](#nim-game) (1)
+- [Sprague–Grundy Theorem](#spraguegrundy-theorem) (1)
 
 ## Dynamic Programming
 
@@ -104,6 +106,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 45. [Unique Paths](unique-paths/)
 46. [Unique Paths II](unique-paths-ii/)
 47. [Stone Game II](stone-game-ii/)
+48. [Stone Game IV](stone-game-iv/)
 ## Graphs
 
 1. [check-if-there-is-a-valid-path-in-a-grid](check-if-there-is-a-valid-path-in-a-grid)
@@ -642,6 +645,7 @@ A topic-wise index of the solution folders in this repository. Some problems app
 51. [Smallest Divisible Digit Product II](smallest-divisible-digit-product-ii/)
 52. [Unique Paths](unique-paths/)
 53. [Stone Game II](stone-game-ii/)
+54. [Stone Game IV](stone-game-iv/)
 ## Simulation
 
 1. [Alice and Bob Playing Flower Game](Alice%20and%20Bob%20Playing%20Flower%20Game)
@@ -901,14 +905,23 @@ A topic-wise index of the solution folders in this repository. Some problems app
 2. [Stone Game](stone-game/)
 3. [Stone Game III](stone-game-iii/)
 4. [Stone Game II](stone-game-ii/)
+5. [Stone Game IV](stone-game-iv/)
 ## Game Theory
 1. [Predict the Winner](predict-the-winner/)
 
 2. [Stone Game](stone-game/)
 3. [Stone Game III](stone-game-iii/)
 4. [Stone Game II](stone-game-ii/)
+5. [Stone Game IV](stone-game-iv/)
 ## Zero-Sum Game
 1. [Predict the Winner](predict-the-winner/)
 2. [Stone Game](stone-game/)
 3. [Stone Game III](stone-game-iii/)
 4. [Stone Game II](stone-game-ii/)
+
+5. [Stone Game IV](stone-game-iv/)
+## Nim Game
+1. [Stone Game IV](stone-game-iv/)
+
+## Sprague–Grundy Theorem
+1. [Stone Game IV](stone-game-iv/)
